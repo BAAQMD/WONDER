@@ -1,0 +1,103 @@
+"Notes"	"County"	"County Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
+	"Alameda County, CA"	"06001"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	387	56667	682.94	614.89	750.98	666.75	597.88	735.62
+	"Alameda County, CA"	"06001"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	18867	5107642	369.39	364.12	374.66	375.92	370.49	381.35
+	"Alameda County, CA"	"06001"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	18762	1908699	982.97	968.91	997.04	907.71	894.44	920.98
+	"Alameda County, CA"	"06001"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	49636	5495763	903.17	895.22	911.11	630.82	625.11	636.54
+	"Contra Costa County, CA"	"06013"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	288	43227	666.25	589.30	743.20	698.53	614.10	782.97
+	"Contra Costa County, CA"	"06013"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	7658	2032092	376.85	368.41	385.29	379.86	371.23	388.48
+	"Contra Costa County, CA"	"06013"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	8962	1083816	826.89	809.77	844.01	875.93	857.32	894.53
+	"Contra Costa County, CA"	"06013"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	51813	5204804	995.48	986.91	1004.06	622.28	616.70	627.86
+	"Marin County, CA"	"06041"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	28	7661	365.49	242.86	528.23	360.26	230.82	536.03
+	"Marin County, CA"	"06041"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	715	185307	385.85	357.56	414.13	328.05	303.52	352.57
+	"Marin County, CA"	"06041"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	464	78815	588.72	535.15	642.29	694.38	628.57	760.18
+	"Marin County, CA"	"06041"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	17232	1902604	905.71	892.18	919.23	484.55	476.82	492.29
+	"Napa County, CA"	"06055"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	54	7175	752.61	565.39	981.99	609.81	452.61	803.96
+	"Napa County, CA"	"06055"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	503	122046	412.14	376.12	448.16	385.48	351.34	419.62
+	"Napa County, CA"	"06055"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	211	33096	637.54	551.51	723.56	733.32	630.36	836.27
+	"Napa County, CA"	"06055"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10310	761559	1353.80	1327.67	1379.93	680.03	665.86	694.19
+	"San Francisco County, CA"	"06075"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	179	25001	715.97	611.08	820.86	739.30	626.86	851.75
+	"San Francisco County, CA"	"06075"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	19699	3104352	634.56	625.70	643.42	406.89	400.99	412.79
+	"San Francisco County, CA"	"06075"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	6583	494465	1331.34	1299.18	1363.50	1064.94	1038.56	1091.33
+	"San Francisco County, CA"	"06075"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24695	3645218	677.46	669.01	685.91	582.36	574.93	589.79
+	"San Mateo County, CA"	"06081"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	82	15696	522.43	415.50	648.47	481.94	379.08	604.12
+	"San Mateo County, CA"	"06081"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	9150	2320112	394.38	386.30	402.46	371.11	363.41	378.81
+	"San Mateo County, CA"	"06081"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	2032	215526	942.81	901.82	983.80	751.36	718.18	784.53
+	"San Mateo County, CA"	"06081"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30581	3139641	974.03	963.11	984.95	560.89	554.31	567.47
+	"Santa Clara County, CA"	"06085"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	300	55158	543.89	482.34	605.44	596.73	526.63	666.84
+	"Santa Clara County, CA"	"06085"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	22245	7003354	317.63	313.46	321.81	346.80	342.19	351.40
+	"Santa Clara County, CA"	"06085"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	2981	517183	576.39	555.70	597.08	706.86	680.29	733.42
+	"Santa Clara County, CA"	"06085"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	58729	6446407	911.03	903.67	918.40	580.43	575.58	585.28
+	"Solano County, CA"	"06095"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	173	25379	681.67	580.09	783.25	718.78	606.25	831.31
+	"Solano County, CA"	"06095"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	4110	755870	543.74	527.12	560.37	453.17	439.07	467.27
+	"Solano County, CA"	"06095"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	5447	670244	812.69	791.11	834.27	863.58	839.84	887.32
+	"Solano County, CA"	"06095"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19344	1767213	1094.60	1079.18	1110.03	765.15	754.01	776.28
+	"Sonoma County, CA"	"06097"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	317	44043	719.75	640.52	798.98	721.89	639.08	804.71
+	"Sonoma County, CA"	"06097"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1088	243799	446.27	419.75	472.79	420.39	394.89	445.88
+	"Sonoma County, CA"	"06097"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	511	102579	498.15	454.96	541.35	661.24	600.72	721.77
+	"Sonoma County, CA"	"06097"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	35532	3262177	1089.21	1077.89	1100.54	634.46	627.47	641.45
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: WONDER-UCD-2011-2020-Hispanic"
+"Hispanic Origin: Not Hispanic or Latino"
+"States: Alameda County, CA (06001); Contra Costa County, CA (06013); Marin County, CA (06041); Napa County, CA (06055); San"
+"Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
+"County, CA (06097)"
+"Year/Month: 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: County; Hispanic Origin; Race"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Sep 16, 2024 1:50:44 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Sep 16, 2024 1:50:44 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates."
+"4. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"5. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"7. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

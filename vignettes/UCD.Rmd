@@ -1,0 +1,109 @@
+---
+title: "UCD"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{UCD}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>")
+```
+
+```{r setup, include = FALSE}
+library(WONDER)    # devtools::install_github("BAAQMD/WONDER")
+library(ggtools)   # devtools::install_github("BAAQMD/ggtools")
+library(exptools)  # devtools::install_github("BAAQMD/exptools")
+```
+
+```{r extdata_path}
+extdata_path <- function (...) {
+  root <- system.file("extdata", package = "WONDER")
+  file.path(root, ...)
+}
+```
+
+```{r make_raceeth_data}
+make_raceeth_data <- function (timespan) {
+  c("UCD-{timespan}-Hispanic.txt", "UCD-{timespan}-NH-ByRace.txt") %>% 
+    map_chr(function (...) str_glue(extdata_path("UCD", timespan, ...))) %>% 
+    map(import_WONDER_UCD_raceeth) %>% 
+    list_rbind()
+}
+```
+
+```{r fig_data}
+fig_data <-
+  list(
+    "2007-2016", "2011-2020") %>% 
+  set_names() %>% 
+  map(
+    make_raceeth_data) %>% 
+  list_rbind(
+    names_to = "timespan") %>% 
+  mutate(
+    cnty_name = fct_reorder(cnty_name, est(rate_adj)),
+    raceeth = fct_reorder(raceeth, -est(rate_adj)))
+
+fig_data
+```
+
+```{r fig_object, fig.dim=c(8, 6), out.width=800, out.height=600}
+raceeth_colors <-
+  RACEETH_COLORS %>%          # from the `exptools` package
+  rename(NatAm = NatAmer) %>% # requires `strtools` 2024.09.23 or later
+  .[levels(fig_data$raceeth)] # sort in same order as fig_data$raceeth
+
+fig_description <-
+  labs(
+    title = str_glue("Mortality Across Bay Area Counties"),
+    subtitle = "Age-adjusted all-cause rates, with 95% confidence intervals",
+    caption = str_glue(
+      "Accessed at http://wonder.cdc.gov/ucd-icd10.html on Sep 16, 2024 1:44:39 PM",
+      str_draft(),
+      .sep = "\n"))
+
+fig_theme <- 
+  theme_simple() +
+  theme_gridlines() +
+  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
+  theme_remove("axis", c("ticks", "line"), c("x", "y"))
+
+fig_object <-
+  fig_data %>% 
+  drop_units() %>% 
+  ggplot() +
+  aes(x = cnty_name, 
+      shape = timespan,
+      color = raceeth, 
+      alpha = I(0.8)) + 
+  geom_pointrange(
+    aes(y = est(rate_adj), 
+        ymin = lower(rate_adj), 
+        ymax = upper(rate_adj)), 
+    position = position_dodge(width = 0.2)) + 
+  scale_color_manual(
+    values = raceeth_colors) +
+  scale_x_discrete(
+    name = NULL) +
+  ggtools::scale_y_quantity(
+    name = "Rate per 100,000",
+    limits = c(0, 1200 / 100e3),
+    labels = function (x) x * 100e3) + 
+  guides(
+    shape = guide_legend(
+      title = "Timespan",
+      order = 1,
+      override.aes = list(linewidth = 0)),
+    color = guide_legend(
+      title = "Race/Ethnicity",
+      order = 2,
+      override.aes = list(linewidth = 0))) +
+  fig_description +
+  fig_theme 
+
+fig_object
+```
