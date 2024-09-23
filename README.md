@@ -22,4 +22,8 @@ For use cases / examples, please have a look at the "UCD" vignette:
 
 > vignette("UCD", package = "WONDER")
 
+Note that for the above to work, you must have passed the `build_vignettes` option when installing, e.g.:
+
+> devtools::install_github("BAAQMD/WONDER", build_vignettes = TRUE)
+
 [WONDER]: https://wonder.cdc.gov
