@@ -27,8 +27,8 @@ extdata_path <- function (...) {
 ```
 
 ```{r make_raceeth_data}
-make_raceeth_data <- function (timespan) {
-  c("UCD-{timespan}-Hispanic.txt", "UCD-{timespan}-NH-ByRace.txt") %>% 
+make_SFBA_county_raceeth_data <- function (timespan) {
+  str_c("UCD-{timespan}-SFBA-ByCounty-", c("Hispanic.txt", "NH-ByRace.txt")) %>% 
     map_chr(function (...) str_glue(extdata_path("UCD", timespan, ...))) %>% 
     map(import_WONDER_UCD_raceeth) %>% 
     list_rbind()
@@ -41,7 +41,7 @@ fig_data <-
     "2007-2016", "2011-2020") %>% 
   set_names() %>% 
   map(
-    make_raceeth_data) %>% 
+    make_SFBA_county_raceeth_data) %>% 
   list_rbind(
     names_to = "timespan") %>% 
   mutate(
