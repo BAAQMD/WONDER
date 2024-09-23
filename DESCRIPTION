@@ -12,10 +12,13 @@ LazyData: true
 Depends:
   tidyverse,
   unittools,
+  strtools (>= 2024.09.23),
   tbltools,
   vctrs
 Remotes:
-  github::BAAQMD/unittools
+  github::BAAQMD/unittools,
+  github::BAAQMD/strtools,
+  github::BAAQMD/tbltools
 Suggests: 
     knitr,
     rmarkdown,
