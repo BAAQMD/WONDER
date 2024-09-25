@@ -38,7 +38,7 @@ make_SFBA_county_raceeth_data <- function (timespan) {
 ```{r fig_data}
 fig_data <-
   list(
-    "2007-2016", "2011-2020") %>% 
+    "2003-2012", "2007-2016", "2011-2020") %>% 
   set_names() %>% 
   map(
     make_SFBA_county_raceeth_data) %>% 
