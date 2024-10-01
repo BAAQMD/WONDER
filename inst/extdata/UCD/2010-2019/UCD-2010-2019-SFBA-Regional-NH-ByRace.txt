@@ -1,5 +1,8 @@
-"Notes"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
-	"Not Hispanic or Latino"	"2186-2"	423310	57481114	736.43	734.21	738.65	562.67	560.94	564.40
+"Notes"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
+	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	1727	280885	614.84	585.84	643.84	641.18	609.60	672.76
+	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	80039	20345687	393.40	390.67	396.12	377.93	375.28	380.57
+	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	44766	5104466	877.00	868.87	885.12	869.56	861.33	877.78
+	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	296778	31750076	934.73	931.37	938.09	608.19	605.93	610.45
 "---"
 "Dataset: Underlying Cause of Death, 1999-2020"
 "Query Parameters:"
@@ -9,7 +12,7 @@
 "Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
 "County, CA (06097)"
 "Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019"
-"Group By: Hispanic Origin"
+"Group By: Hispanic Origin; Race"
 "Show Totals: False"
 "Show Zero Values: True"
 "Show Suppressed: True"
@@ -19,12 +22,12 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
 "---"
-"Query Date: Sep 26, 2024 1:57:06 PM"
+"Query Date: Oct 1, 2024 7:15:11 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
 "1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
-"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Sep 26, 2024 1:57:06 PM"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 1, 2024 7:15:11 PM"
 "---"
 Caveats:
 "1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
