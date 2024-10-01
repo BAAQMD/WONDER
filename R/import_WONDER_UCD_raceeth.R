@@ -5,10 +5,17 @@
 #'
 #' @return tibble
 #' @export
+#'
+#' @examples
+#' txt_path <- system.file("extdata", "UCD", "2011-2020", "UCD-2011-2020-SFBA-ByCounty-Hispanic.txt", package = "WONDER")
+#' import_WONDER_UCD_raceeth(txt_path)
+#'
 import_WONDER_UCD_raceeth <- function (
     path,
     ...
 ) {
+
+  .Defunct("import_WONDER_UCD")
 
   imported_data <-
     import_WONDER_UCD(path, ...)

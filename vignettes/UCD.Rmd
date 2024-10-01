@@ -30,7 +30,7 @@ extdata_path <- function (...) {
 make_SFBA_county_raceeth_data <- function (timespan) {
   str_c("UCD-{timespan}-SFBA-ByCounty-", c("Hispanic.txt", "NH-ByRace.txt")) %>% 
     map_chr(function (...) str_glue(extdata_path("UCD", timespan, ...))) %>% 
-    map(import_WONDER_UCD_raceeth) %>% 
+    map(import_WONDER_UCD) %>% 
     list_rbind()
 }
 ```

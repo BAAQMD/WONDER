@@ -3,10 +3,9 @@
 `WONDER` is an R package for importing and working with data from the 
 Centers for Disease Control (CDC) [WONDER] online databases.
 
-Currently, this package provides the following key functions:
+Currently, this package provides the following key function:
 
 - `import_WONDER_UCD()`
-- `import_WONDER_UCD_raceeth()`
 
 ... for importing data that are manually downloaded, as text files, 
 from the [Underlying Cause of Death (UCD) web interface](https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html).
