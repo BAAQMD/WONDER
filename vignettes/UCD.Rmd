@@ -2,15 +2,17 @@
 title: "UCD Example"
 output: rmarkdown::html_vignette
 vignette: >
-%\VignetteIndexEntry{UCD}
-%\VignetteEngine{knitr::rmarkdown}
-%\VignetteEncoding{UTF-8}
+  %\VignetteIndexEntry{UCD}
+  %\VignetteEncoding{UTF-8}
+  %\VignetteEngine{knitr::rmarkdown}
+editor_options: 
+  chunk_output_type: console
 ---
   
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
-collapse = TRUE,
-comment = "#>")
+  collapse = TRUE,
+  comment = "#>")
 ```
 
 ```{r setup, include = FALSE}
@@ -21,7 +23,7 @@ library(exptools)  # devtools::install_github("BAAQMD/exptools")
 
 ```{r extdata_path}
 extdata_path <- function (...) {
-system.file("extdata", ..., package = "WONDER")
+  system.file("extdata", ..., package = "WONDER")
 }
 ```
 
@@ -58,8 +60,7 @@ fig_theme <-
 ```{r raceeth_colors}
 raceeth_colors <-
   RACEETH_COLORS %>%          # from the `exptools` package
-  rename(NatAm = NatAmer) %>% # requires `strtools` 2024.09.23 or later
-  .[levels(fig_data$raceeth)] # sort in same order as fig_data$raceeth
+  rename(NatAm = NatAmer) 
 
 raceeth_colors[["(all)"]] <- gray(0) # black
 ```
@@ -77,9 +78,16 @@ fig_description <-
 
 ```{r make_figure_by_raceeth}
 make_figure_by_raceeth <- function (.data, ...) {
+  
+  timespan_levels <-
+    with(.data, sort(unique(timespan)))
+  
+  timespan_shapes <-
+    scale_shape_discrete()$palette(length(timespan_levels))
+  
   ggplot(drop_units(.data), ...) +
     aes(x = cnty_name, 
-        shape = timespan,
+        shape = factor(timespan, levels = timespan_levels),
         alpha = I(0.8),
         y = est(rate_adj), 
           color = raceeth,
@@ -89,6 +97,8 @@ make_figure_by_raceeth <- function (.data, ...) {
       aes(color = raceeth), 
       position = position_dodge(width = 0.2),
       data = ~ filter(., raceeth != "(all)")) + 
+    scale_shape_manual(
+      values = set_names(rev(timespan_shapes), timespan_levels)) +
     scale_x_discrete(
       name = NULL) +
     ggtools::scale_y_quantity(
@@ -126,6 +136,7 @@ SFBA_UCD_data %>%
       order = 2,
       override.aes = list(linewidth = 0))) 
 ```
+
 ```{r fig2, fig.dim=c(8, 6), out.width=800, out.height=600}
 SFBA_UCD_data %>% 
   filter(
@@ -137,8 +148,9 @@ SFBA_UCD_data %>%
     xintercept = 9.5) +
   scale_color_manual(
     values = raceeth_colors) +
-  geom_point(
+  geom_point( # CI is too small to matter; no need for `pointrange()`
     shape = 9,
+    size = 2,
     data = ~ filter(., raceeth == "(all)")) +
   guides(
     color = guide_legend(
