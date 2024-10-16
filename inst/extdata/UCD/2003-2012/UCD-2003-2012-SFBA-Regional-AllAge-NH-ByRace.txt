@@ -1,16 +1,20 @@
-"Notes"	"State"	"State Code"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
-	"California"	"06"	"Hispanic or Latino"	"2135-2"	42141	15714447	268.17	265.61	270.73	526.39	521.03	531.75
+"Notes"	"State"	"State Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
+	"California"	"06"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	1415	289144	489.38	463.88	514.87	614.87	580.66	649.07
+	"California"	"06"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	61863	16855250	367.03	364.13	369.92	424.19	420.81	427.57
+	"California"	"06"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	44460	5053418	879.80	871.62	887.98	983.97	974.65	993.30
+	"California"	"06"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	300804	32104418	936.96	933.61	940.30	670.61	668.16	673.06
 "---"
 "Dataset: Underlying Cause of Death, 1999-2020"
 "Query Parameters:"
-"Hispanic Origin: Hispanic or Latino"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
 "States: Alameda County, CA (06001); Contra Costa County, CA (06013); Marin County, CA (06041); Napa County, CA (06055); San"
 "Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
 "County, CA (06097)"
 "Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74"
 "years; 75-84 years; 85+ years; Not Stated"
 "Year/Month: 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012"
-"Group By: State; Hispanic Origin"
+"Group By: State; Hispanic Origin; Race"
 "Show Totals: False"
 "Show Zero Values: True"
 "Show Suppressed: True"
@@ -20,12 +24,12 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
 "---"
-"Query Date: Oct 16, 2024 12:40:25 PM"
+"Query Date: Oct 16, 2024 12:41:42 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
 "1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
-"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 16, 2024 12:40:25 PM"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 16, 2024 12:41:42 PM"
 "---"
 Caveats:
 "1. These items in the results table are not fully selected: California. The Query Description lists the actual values selected."
