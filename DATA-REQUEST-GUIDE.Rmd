@@ -1,0 +1,102 @@
+---
+title: "Request Data from CDC Wonder"
+author: "Yuanyuan Fang"
+date: "2024-10-16"
+output: html_document
+---
+
+# Where to request data
+
+You should go to this weblink to request data <https://wonder.cdc.gov/ucd-icd10.html>
+
+Click "I Agree" on the webpage so that you can move to request form and start to request data
+
+![](images/clipboard-50851086.png)
+
+# Request AllAge Mortality Data
+
+## County-level
+
+### AllRaceEth Mortality Data
+
+-   Choose Group results by "County"
+
+-   Select crude data as well as Age Adjusted Rate with 95% CI intervals
+
+-   Choose the 9 counties in the Bay Area
+
+-   Choose all ages, genders, races/ethnicities
+
+-   Choose years of interests
+
+-   Choose all mortality causes
+
+-   Determine how to export data
+
+-   Click "Send" to request data, rename file for further processing
+
+![![](images/clipboard-2874144610.png)](images/clipboard-3630398401.png)
+
+![](images/clipboard-4091687604.png)
+
+### Hispanic All-race Mortality Data
+
+-   Choose Group results by "County" and by "Hispanic Origin"
+
+-   Select crude data as well as Age Adjusted Rate with 95% CI intervals
+
+-   Choose the 9 counties in the Bay Area
+
+-   Choose all Ages, Genders, Hispanic or Latino Origin and All Races
+
+-   Choose years of interests
+
+-   Choose all mortality causes
+
+-   Determine how to export data
+
+-   Click "Send" to request data, rename file for further processing
+
+![](images/clipboard-4169691464.png)
+
+## ![](images/clipboard-359351544.png)
+
+### Non-Hispanic Race-specific Mortality Data
+
+-   Choose Group results by "County" and by "Hispanic Origin" and by "Race"
+
+-   Select crude data as well as Age Adjusted Rate with 95% CI intervals
+
+-   Choose the 9 counties in the Bay Area
+
+-   Choose all ages, genders, Non-Hispanic or Latino Origin and four specific races
+
+-   Choose years of interests
+
+-   Choose all mortality causes
+
+-   Determine how to export data
+
+-   Click "Send" to request data, rename file for further processing
+
+![](images/clipboard-87779603.png)
+
+![](images/clipboard-3060894681.png)
+
+## Regional-level
+
+Basically follows the above instructions, except to use Group results by "State" rather than "County"
+
+# Request Mortality Data by Age Groups
+
+Basically follows the above instructions, except to choose Group results by "Ten-year Age Groups" or by "Five-Year Age Groups" in Section 1 of this request form, and select the Age groups of interests in Section 3 of this request form (see example screenshots below)
+
+![](images/clipboard-2425304028.png)
+
+![](images/clipboard-3043571859.png)
+
+# File Naming Convention
+
+Please see the screenshot below for the filenames used.
+
+![](images/clipboard-4231516517.png)
