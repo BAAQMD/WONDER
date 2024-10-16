@@ -1,0 +1,98 @@
+"Notes"	"State"	"State Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"California"	"06"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	1023	302088	338.64	317.89	359.40
+	"California"	"06"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	177	1201008	14.74	12.57	16.91
+	"California"	"06"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	115	1543060	7.45	6.09	8.81
+	"California"	"06"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	138	1506189	9.16	7.63	10.69
+	"California"	"06"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	583	1441655	40.44	37.16	43.72
+	"California"	"06"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	1041	1450517	71.77	67.41	76.13
+	"California"	"06"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	963	1525221	63.14	59.15	67.13
+	"California"	"06"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	1010	1500125	67.33	63.18	71.48
+	"California"	"06"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	1320	1422479	92.80	87.79	97.80
+	"California"	"06"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	1596	1307229	122.09	116.10	128.08
+	"California"	"06"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	2121	1165912	181.92	174.18	189.66
+	"California"	"06"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	2962	996043	297.38	286.67	308.09
+	"California"	"06"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	3710	805268	460.72	445.89	475.54
+	"California"	"06"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	3980	598402	665.10	644.44	685.77
+	"California"	"06"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	4022	415496	968.00	938.08	997.92
+	"California"	"06"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	4210	286172	1471.14	1426.70	1515.58
+	"California"	"06"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	4845	203135	2385.11	2317.95	2452.27
+	"California"	"06"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	5910	146445	4035.64	3932.75	4138.54
+	"California"	"06"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	6463	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	5127	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	2246	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	543	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Five-Year Age Groups: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39"
+"years; 40-44 years; 45-49 years; 50-54 years; 55-59 years; 60-64 years ; 65-69 years; 70-74 years; 75-79 years; 80-84 years;"
+"85-89 years; 90-94 years; 95-99 years; 100+ years; Not Stated"
+"Hispanic Origin: Hispanic or Latino"
+"States: Alameda County, CA (06001); Contra Costa County, CA (06013); Marin County, CA (06041); Napa County, CA (06055); San"
+"Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
+"County, CA (06097)"
+"Year/Month: 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Five-Year Age Groups; Hispanic Origin"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 16, 2024 12:14:12 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 16, 2024 12:14:12 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. These items in the results table are not fully selected: California. The Query Description lists the actual values selected."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"9. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

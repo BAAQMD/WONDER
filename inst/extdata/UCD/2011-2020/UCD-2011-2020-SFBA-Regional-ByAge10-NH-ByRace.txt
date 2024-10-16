@@ -1,0 +1,119 @@
+"Notes"	"State"	"State Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"California"	"06"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	3070	Unreliable	156.20	599.04
+	"California"	"06"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	650	213155	304.94	281.50	328.39
+	"California"	"06"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	438	64031	684.04	619.98	748.11
+	"California"	"06"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	772	285004	270.87	251.77	289.98
+	"California"	"06"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	12544	Unreliable	0.00	0.00
+	"California"	"06"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	111	907547	12.23	9.96	14.51
+	"California"	"06"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	65	241549	26.91	20.77	34.30
+	"California"	"06"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	136	1131131	12.02	10.00	14.04
+	"California"	"06"	"5-14 years"	"5-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	32119	Unreliable	0.00	0.00
+	"California"	"06"	"5-14 years"	"5-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	180	2306927	7.80	6.66	8.94
+	"California"	"06"	"5-14 years"	"5-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	91	627611	14.50	11.67	17.80
+	"California"	"06"	"5-14 years"	"5-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	226	2865265	7.89	6.86	8.92
+	"California"	"06"	"15-24 years"	"15-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	31	36700	84.47	57.39	119.90
+	"California"	"06"	"15-24 years"	"15-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	662	2270134	29.16	26.94	31.38
+	"California"	"06"	"15-24 years"	"15-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	981	726028	135.12	126.66	143.57
+	"California"	"06"	"15-24 years"	"15-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1496	3038280	49.24	46.74	51.73
+	"California"	"06"	"25-34 years"	"25-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	50	41825	119.55	88.73	157.61
+	"California"	"06"	"25-34 years"	"25-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1202	3534045	34.01	32.09	35.93
+	"California"	"06"	"25-34 years"	"25-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1398	770180	181.52	172.00	191.03
+	"California"	"06"	"25-34 years"	"25-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3067	4359196	70.36	67.87	72.85
+	"California"	"06"	"35-44 years"	"35-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	90	37147	242.28	194.82	297.80
+	"California"	"06"	"35-44 years"	"35-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	2121	3416312	62.08	59.44	64.73
+	"California"	"06"	"35-44 years"	"35-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1920	662356	289.87	276.91	302.84
+	"California"	"06"	"35-44 years"	"35-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	4883	4040659	120.85	117.46	124.24
+	"California"	"06"	"45-54 years"	"45-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	221	42469	520.38	451.77	588.99
+	"California"	"06"	"45-54 years"	"45-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	4563	2969469	153.66	149.21	158.12
+	"California"	"06"	"45-54 years"	"45-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	4203	707875	593.75	575.80	611.70
+	"California"	"06"	"45-54 years"	"45-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13196	4746671	278.01	273.26	282.75
+	"California"	"06"	"55-64 years"	"55-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	345	38923	886.37	792.83	979.90
+	"California"	"06"	"55-64 years"	"55-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	8986	2474591	363.13	355.62	370.64
+	"California"	"06"	"55-64 years"	"55-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	8634	659186	1309.80	1282.17	1337.43
+	"California"	"06"	"55-64 years"	"55-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	31063	4904178	633.40	626.35	640.44
+	"California"	"06"	"65-74 years"	"65-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	365	22914	1592.91	1429.49	1756.33
+	"California"	"06"	"65-74 years"	"65-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	12871	1581305	813.95	799.89	828.01
+	"California"	"06"	"65-74 years"	"65-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	9330	386458	2414.23	2365.25	2463.22
+	"California"	"06"	"65-74 years"	"65-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	48441	3522052	1375.36	1363.11	1387.61
+	"California"	"06"	"75-84 years"	"75-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	350	8728	4010.08	3589.96	4430.20
+	"California"	"06"	"75-84 years"	"75-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	20727	831981	2491.28	2457.37	2525.20
+	"California"	"06"	"75-84 years"	"75-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	9178	181011	5070.41	4966.68	5174.15
+	"California"	"06"	"75-84 years"	"75-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	68938	1796045	3838.32	3809.67	3866.98
+	"California"	"06"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	346	3568	9697.31	8675.50	10719.12
+	"California"	"06"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	31958	369108	8658.17	8563.24	8753.10
+	"California"	"06"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	9711	78138	12428.01	12180.82	12675.20
+	"California"	"06"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	125626	936905	13408.62	13334.47	13482.76
+	"California"	"06"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"States: Alameda County, CA (06001); Contra Costa County, CA (06013); Marin County, CA (06041); Napa County, CA (06055); San"
+"Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
+"County, CA (06097)"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74"
+"years; 75-84 years; 85+ years; Not Stated"
+"Year/Month: 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Ten-Year Age Groups; Hispanic Origin; Race"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 16, 2024 12:08:46 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 16, 2024 12:08:46 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. These items in the results table are not fully selected: California. The Query Description lists the actual values selected."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"9. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

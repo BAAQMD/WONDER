@@ -1,0 +1,283 @@
+"Notes"	"County"	"County Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Alameda County, CA"	"06001"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	197	61920	318.15	273.72	362.58
+	"Alameda County, CA"	"06001"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	35	244331	14.32	9.98	19.92
+	"Alameda County, CA"	"06001"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	22	311620	7.06	4.42	10.69
+	"Alameda County, CA"	"06001"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	32	301363	10.62	7.26	14.99
+	"Alameda County, CA"	"06001"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	121	289326	41.82	34.37	49.27
+	"Alameda County, CA"	"06001"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	211	297398	70.95	61.38	80.52
+	"Alameda County, CA"	"06001"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	214	319567	66.97	57.99	75.94
+	"Alameda County, CA"	"06001"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	220	314336	69.99	60.74	79.24
+	"Alameda County, CA"	"06001"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	267	295372	90.39	79.55	101.24
+	"Alameda County, CA"	"06001"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	310	268830	115.31	102.48	128.15
+	"Alameda County, CA"	"06001"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	439	237792	184.62	167.35	201.89
+	"Alameda County, CA"	"06001"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	587	201133	291.85	268.24	315.46
+	"Alameda County, CA"	"06001"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	791	161394	490.10	455.95	524.26
+	"Alameda County, CA"	"06001"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	827	118492	697.94	650.37	745.51
+	"Alameda County, CA"	"06001"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	805	81465	988.15	919.89	1056.42
+	"Alameda County, CA"	"06001"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	873	55419	1575.27	1470.77	1679.77
+	"Alameda County, CA"	"06001"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	1015	38464	2638.83	2476.49	2801.17
+	"Alameda County, CA"	"06001"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	1134	27619	4105.87	3866.89	4344.85
+	"Alameda County, CA"	"06001"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	1349	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	978	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	448	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	93	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	185	46398	398.72	341.27	456.18
+	"Contra Costa County, CA"	"06013"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	32	195653	16.36	11.19	23.09
+	"Contra Costa County, CA"	"06013"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	22	258733	8.50	5.33	12.87
+	"Contra Costa County, CA"	"06013"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	23	258003	8.91	5.65	13.38
+	"Contra Costa County, CA"	"06013"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	115	242971	47.33	38.68	55.98
+	"Contra Costa County, CA"	"06013"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	164	225436	72.75	61.61	83.88
+	"Contra Costa County, CA"	"06013"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	171	221108	77.34	65.75	88.93
+	"Contra Costa County, CA"	"06013"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	160	222351	71.96	60.81	83.11
+	"Contra Costa County, CA"	"06013"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	178	221258	80.45	68.63	92.27
+	"Contra Costa County, CA"	"06013"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	223	208506	106.95	92.91	120.99
+	"Contra Costa County, CA"	"06013"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	298	187791	158.69	140.67	176.70
+	"Contra Costa County, CA"	"06013"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	424	160935	263.46	238.38	288.54
+	"Contra Costa County, CA"	"06013"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	559	127487	438.48	402.13	474.83
+	"Contra Costa County, CA"	"06013"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	594	93801	633.26	582.33	684.18
+	"Contra Costa County, CA"	"06013"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	560	64290	871.05	798.91	943.20
+	"Contra Costa County, CA"	"06013"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	641	43881	1460.77	1347.68	1573.85
+	"Contra Costa County, CA"	"06013"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	704	30627	2298.63	2128.83	2468.43
+	"Contra Costa County, CA"	"06013"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	895	21891	4088.44	3820.58	4356.29
+	"Contra Costa County, CA"	"06013"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	942	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	814	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	326	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	67	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	19	7372	Unreliable	155.17	402.48
+	"Marin County, CA"	"06041"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	Suppressed	29892	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	Suppressed	37899	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	Suppressed	36024	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	14	31638	Unreliable	24.19	74.24
+	"Marin County, CA"	"06041"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	19	29203	Unreliable	39.17	101.60
+	"Marin County, CA"	"06041"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	19	30029	Unreliable	38.09	98.81
+	"Marin County, CA"	"06041"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	17	33400	Unreliable	29.65	81.49
+	"Marin County, CA"	"06041"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	27	35018	77.10	50.81	112.18
+	"Marin County, CA"	"06041"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	27	34378	78.54	51.76	114.27
+	"Marin County, CA"	"06041"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	46	30318	151.73	111.08	202.38
+	"Marin County, CA"	"06041"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	48	24096	199.20	146.88	264.11
+	"Marin County, CA"	"06041"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	58	17785	326.12	247.63	421.58
+	"Marin County, CA"	"06041"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	36	13002	276.88	193.92	383.32
+	"Marin County, CA"	"06041"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	70	8925	784.31	611.41	990.93
+	"Marin County, CA"	"06041"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	60	5756	1042.39	795.46	1341.77
+	"Marin County, CA"	"06041"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	76	3831	1983.82	1563.03	2483.04
+	"Marin County, CA"	"06041"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	91	2716	3350.52	2697.63	4113.70
+	"Marin County, CA"	"06041"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	93	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	90	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	51	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	22	8041	273.60	171.46	414.23
+	"Napa County, CA"	"06055"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	Suppressed	31824	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	Suppressed	42841	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	Suppressed	43992	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	Suppressed	42517	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	26	40015	64.98	42.44	95.20
+	"Napa County, CA"	"06055"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	20	37083	53.93	32.94	83.30
+	"Napa County, CA"	"06055"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	27	37254	72.48	47.76	105.45
+	"Napa County, CA"	"06055"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	29	36486	79.48	53.23	114.15
+	"Napa County, CA"	"06055"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	40	34129	117.20	83.73	159.60
+	"Napa County, CA"	"06055"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	40	30883	129.52	92.53	176.37
+	"Napa County, CA"	"06055"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	68	25943	262.11	203.54	332.29
+	"Napa County, CA"	"06055"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	78	20410	382.17	302.09	476.96
+	"Napa County, CA"	"06055"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	75	14950	501.67	394.60	628.85
+	"Napa County, CA"	"06055"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	92	10268	895.99	722.29	1098.85
+	"Napa County, CA"	"06055"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	78	6639	1174.88	928.69	1466.30
+	"Napa County, CA"	"06055"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	105	4646	2260.01	1827.72	2692.29
+	"Napa County, CA"	"06055"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	123	3143	3913.46	3221.84	4605.07
+	"Napa County, CA"	"06055"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	106	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	92	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	49	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	70	20053	349.07	272.12	441.04
+	"San Francisco County, CA"	"06075"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	Suppressed	68993	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	Suppressed	75838	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	Suppressed	65771	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	22	71214	30.89	19.36	46.77
+	"San Francisco County, CA"	"06075"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	86	100793	85.32	68.25	105.37
+	"San Francisco County, CA"	"06075"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	99	149307	66.31	53.89	80.73
+	"San Francisco County, CA"	"06075"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	98	145700	67.26	54.61	81.97
+	"San Francisco County, CA"	"06075"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	149	119401	124.79	104.75	144.83
+	"San Francisco County, CA"	"06075"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	182	99430	183.04	156.45	209.64
+	"San Francisco County, CA"	"06075"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	249	86741	287.06	251.41	322.72
+	"San Francisco County, CA"	"06075"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	287	74369	385.91	341.27	430.56
+	"San Francisco County, CA"	"06075"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	351	64257	546.24	489.10	603.39
+	"San Francisco County, CA"	"06075"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	395	51413	768.29	692.52	844.06
+	"San Francisco County, CA"	"06075"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	393	36994	1062.33	957.30	1167.37
+	"San Francisco County, CA"	"06075"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	370	26537	1394.28	1252.21	1536.35
+	"San Francisco County, CA"	"06075"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	461	20133	2289.77	2080.75	2498.80
+	"San Francisco County, CA"	"06075"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	562	15809	3554.94	3261.02	3848.85
+	"San Francisco County, CA"	"06075"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	711	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	634	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	304	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	93	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	101	29999	336.68	271.02	402.34
+	"San Mateo County, CA"	"06081"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	16	118850	Unreliable	7.69	21.86
+	"San Mateo County, CA"	"06081"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	Suppressed	151989	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	15	148286	Unreliable	5.66	16.68
+	"San Mateo County, CA"	"06081"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	52	143225	36.31	27.12	47.61
+	"San Mateo County, CA"	"06081"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	81	145786	55.56	44.12	69.06
+	"San Mateo County, CA"	"06081"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	86	153817	55.91	44.72	69.05
+	"San Mateo County, CA"	"06081"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	85	154235	55.11	44.02	68.15
+	"San Mateo County, CA"	"06081"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	112	147996	75.68	61.66	89.69
+	"San Mateo County, CA"	"06081"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	149	137255	108.56	91.13	125.99
+	"San Mateo County, CA"	"06081"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	205	126543	162.00	139.82	184.18
+	"San Mateo County, CA"	"06081"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	248	111972	221.48	193.92	249.05
+	"San Mateo County, CA"	"06081"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	316	93138	339.28	301.87	376.69
+	"San Mateo County, CA"	"06081"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	333	69574	478.63	427.22	530.04
+	"San Mateo County, CA"	"06081"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	387	47751	810.45	729.71	891.20
+	"San Mateo County, CA"	"06081"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	391	33915	1152.88	1038.61	1267.16
+	"San Mateo County, CA"	"06081"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	517	25279	2045.18	1868.88	2221.47
+	"San Mateo County, CA"	"06081"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	608	18468	3292.18	3030.49	3553.87
+	"San Mateo County, CA"	"06081"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	722	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	607	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	278	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	92	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	271	87457	309.87	272.97	346.76
+	"Santa Clara County, CA"	"06085"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	53	335907	15.78	11.82	20.64
+	"Santa Clara County, CA"	"06085"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	30	431778	6.95	4.69	9.92
+	"Santa Clara County, CA"	"06085"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	36	423711	8.50	5.95	11.76
+	"Santa Clara County, CA"	"06085"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	160	407119	39.30	33.21	45.39
+	"Santa Clara County, CA"	"06085"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	300	405832	73.92	65.56	82.29
+	"Santa Clara County, CA"	"06085"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	234	412345	56.75	49.48	64.02
+	"Santa Clara County, CA"	"06085"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	273	396552	68.84	60.68	77.01
+	"Santa Clara County, CA"	"06085"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	376	380618	98.79	88.80	108.77
+	"Santa Clara County, CA"	"06085"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	455	354975	128.18	116.40	139.96
+	"Santa Clara County, CA"	"06085"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	588	314613	186.90	171.79	202.00
+	"Santa Clara County, CA"	"06085"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	912	269956	337.83	315.91	359.76
+	"Santa Clara County, CA"	"06085"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	1114	219022	508.62	478.76	538.49
+	"Santa Clara County, CA"	"06085"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	1229	160394	766.24	723.40	809.08
+	"Santa Clara County, CA"	"06085"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	1224	112575	1087.28	1026.36	1148.19
+	"Santa Clara County, CA"	"06085"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	1283	79074	1622.53	1533.75	1711.31
+	"Santa Clara County, CA"	"06085"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	1421	56904	2497.19	2367.35	2627.03
+	"Santa Clara County, CA"	"06085"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	1832	40698	4501.45	4295.32	4707.58
+	"Santa Clara County, CA"	"06085"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	1865	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	1379	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	575	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	139	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	91	19060	477.44	384.41	586.19
+	"Solano County, CA"	"06095"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	13	83581	Unreliable	8.28	26.60
+	"Solano County, CA"	"06095"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	Suppressed	106428	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	Suppressed	104664	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	54	98131	55.03	41.34	71.80
+	"Solano County, CA"	"06095"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	78	96770	80.60	63.71	100.60
+	"Solano County, CA"	"06095"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	68	94316	72.10	55.99	91.40
+	"Solano County, CA"	"06095"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	64	89628	71.41	54.99	91.18
+	"Solano County, CA"	"06095"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	88	83602	105.26	84.42	129.68
+	"Solano County, CA"	"06095"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	106	75347	140.68	113.90	167.46
+	"Solano County, CA"	"06095"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	119	68013	174.97	143.53	206.40
+	"Solano County, CA"	"06095"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	189	59305	318.69	273.26	364.13
+	"Solano County, CA"	"06095"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	245	48807	501.98	439.12	564.83
+	"Solano County, CA"	"06095"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	267	37210	717.55	631.48	803.62
+	"Solano County, CA"	"06095"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	254	26173	970.47	851.12	1089.81
+	"Solano County, CA"	"06095"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	263	17704	1485.54	1306.00	1665.08
+	"Solano County, CA"	"06095"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	294	11899	2470.80	2188.36	2753.23
+	"Solano County, CA"	"06095"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	361	8288	4355.69	3906.37	4805.02
+	"Solano County, CA"	"06095"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	351	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	277	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	96	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"< 1 year"	"1"	"Hispanic or Latino"	"2135-2"	67	21788	307.51	238.32	390.52
+	"Sonoma County, CA"	"06097"	"1-4 years"	"1-4"	"Hispanic or Latino"	"2135-2"	Suppressed	91977	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	12	125934	Unreliable	4.92	16.64
+	"Sonoma County, CA"	"06097"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	11	124375	Unreliable	4.42	15.82
+	"Sonoma County, CA"	"06097"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	40	115514	34.63	24.74	47.15
+	"Sonoma County, CA"	"06097"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	76	109284	69.54	54.79	87.04
+	"Sonoma County, CA"	"06097"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	52	107649	48.31	36.08	63.35
+	"Sonoma County, CA"	"06097"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	66	106669	61.87	47.85	78.72
+	"Sonoma County, CA"	"06097"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	94	102728	91.50	73.94	111.98
+	"Sonoma County, CA"	"06097"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	104	94379	110.19	89.02	131.37
+	"Sonoma County, CA"	"06097"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	137	83218	164.63	137.06	192.20
+	"Sonoma County, CA"	"06097"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	199	68334	291.22	250.75	331.68
+	"Sonoma County, CA"	"06097"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	198	52968	373.81	321.74	425.88
+	"Sonoma County, CA"	"06097"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	224	39566	566.14	492.00	640.28
+	"Sonoma County, CA"	"06097"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	237	27055	875.99	764.47	987.52
+	"Sonoma County, CA"	"06097"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	251	17247	1455.33	1275.28	1635.37
+	"Sonoma County, CA"	"06097"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	252	11352	2219.87	1945.79	2493.96
+	"Sonoma County, CA"	"06097"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	304	7813	3890.95	3453.55	4328.35
+	"Sonoma County, CA"	"06097"	"85-89 years"	"85-89"	"Hispanic or Latino"	"2135-2"	324	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"90-94 years"	"90-94"	"Hispanic or Latino"	"2135-2"	256	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"95-99 years"	"95-99"	"Hispanic or Latino"	"2135-2"	119	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"100+ years"	"100+"	"Hispanic or Latino"	"2135-2"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"Not Stated"	"NS"	"Hispanic or Latino"	"2135-2"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Five-Year Age Groups: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39"
+"years; 40-44 years; 45-49 years; 50-54 years; 55-59 years; 60-64 years ; 65-69 years; 70-74 years; 75-79 years; 80-84 years;"
+"85-89 years; 90-94 years; 95-99 years; 100+ years; Not Stated"
+"Hispanic Origin: Hispanic or Latino"
+"States: Alameda County, CA (06001); Contra Costa County, CA (06013); Marin County, CA (06041); Napa County, CA (06055); San"
+"Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
+"County, CA (06097)"
+"Year/Month: 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: County; Five-Year Age Groups; Hispanic Origin"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 16, 2024 11:56:23 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 16, 2024 11:56:23 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"9. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

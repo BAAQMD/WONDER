@@ -1,0 +1,905 @@
+"Notes"	"County"	"County Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Alameda County, CA"	"06001"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	608	Unreliable	0.00	0.00
+	"Alameda County, CA"	"06001"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	184	51565	356.83	305.27	408.39
+	"Alameda County, CA"	"06001"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	172	23974	717.44	610.22	824.66
+	"Alameda County, CA"	"06001"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	155	55543	279.06	235.13	323.00
+	"Alameda County, CA"	"06001"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	2669	Unreliable	0.00	0.00
+	"Alameda County, CA"	"06001"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	22	234557	9.38	5.88	14.20
+	"Alameda County, CA"	"06001"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	26	88211	29.47	19.25	43.19
+	"Alameda County, CA"	"06001"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	206014	10.19	6.31	15.58
+	"Alameda County, CA"	"06001"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	3217	Unreliable	0.00	0.00
+	"Alameda County, CA"	"06001"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	22	299881	7.34	4.60	11.11
+	"Alameda County, CA"	"06001"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	12	110199	Unreliable	5.63	19.02
+	"Alameda County, CA"	"06001"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	242515	Unreliable	2.26	8.12
+	"Alameda County, CA"	"06001"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	2994	Unreliable	0.00	0.00
+	"Alameda County, CA"	"06001"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	15	282605	Unreliable	2.97	8.75
+	"Alameda County, CA"	"06001"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	18	112912	Unreliable	9.45	25.19
+	"Alameda County, CA"	"06001"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	236526	8.46	5.17	13.06
+	"Alameda County, CA"	"06001"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	3046	Suppressed	Suppressed	Suppressed
+	"Alameda County, CA"	"06001"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	66	278340	23.71	18.34	30.17
+	"Alameda County, CA"	"06001"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	145	122447	118.42	99.14	137.69
+	"Alameda County, CA"	"06001"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	82	254203	32.26	25.66	40.04
+	"Alameda County, CA"	"06001"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	3708	Suppressed	Suppressed	Suppressed
+	"Alameda County, CA"	"06001"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	115	308289	37.30	30.48	44.12
+	"Alameda County, CA"	"06001"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	250	136976	182.51	159.89	205.14
+	"Alameda County, CA"	"06001"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	183	292124	62.64	53.57	71.72
+	"Alameda County, CA"	"06001"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	4433	Suppressed	Suppressed	Suppressed
+	"Alameda County, CA"	"06001"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	139	408823	34.00	28.35	39.65
+	"Alameda County, CA"	"06001"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	245	149851	163.50	143.02	183.97
+	"Alameda County, CA"	"06001"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	257	405431	63.39	55.64	71.14
+	"Alameda County, CA"	"06001"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	4464	Suppressed	Suppressed	Suppressed
+	"Alameda County, CA"	"06001"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	181	456865	39.62	33.85	45.39
+	"Alameda County, CA"	"06001"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	304	139340	218.17	193.65	242.70
+	"Alameda County, CA"	"06001"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	314	420370	74.70	66.43	82.96
+	"Alameda County, CA"	"06001"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	4102	Unreliable	116.90	448.33
+	"Alameda County, CA"	"06001"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	212	451248	46.98	40.66	53.31
+	"Alameda County, CA"	"06001"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	349	129272	269.97	241.65	298.30
+	"Alameda County, CA"	"06001"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	346	375943	92.04	82.34	101.73
+	"Alameda County, CA"	"06001"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	12	3742	Unreliable	165.70	560.17
+	"Alameda County, CA"	"06001"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	300	415719	72.16	64.00	80.33
+	"Alameda County, CA"	"06001"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	426	124516	342.12	309.64	374.61
+	"Alameda County, CA"	"06001"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	499	361935	137.87	125.77	149.97
+	"Alameda County, CA"	"06001"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	18	4111	Unreliable	259.50	691.99
+	"Alameda County, CA"	"06001"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	463	371360	124.68	113.32	136.03
+	"Alameda County, CA"	"06001"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	655	127530	513.60	474.27	552.94
+	"Alameda County, CA"	"06001"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	850	390193	217.84	203.20	232.49
+	"Alameda County, CA"	"06001"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	29	4585	632.50	423.60	908.37
+	"Alameda County, CA"	"06001"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	616	337247	182.66	168.23	197.08
+	"Alameda County, CA"	"06001"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	986	135064	730.02	684.46	775.59
+	"Alameda County, CA"	"06001"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1428	425592	335.53	318.13	352.94
+	"Alameda County, CA"	"06001"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	39	4231	921.77	655.47	1260.08
+	"Alameda County, CA"	"06001"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	933	312737	298.33	279.19	317.48
+	"Alameda County, CA"	"06001"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1466	134503	1089.94	1034.14	1145.73
+	"Alameda County, CA"	"06001"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2348	436646	537.74	515.98	559.49
+	"Alameda County, CA"	"06001"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	43	3539	1215.03	879.32	1636.64
+	"Alameda County, CA"	"06001"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1179	273828	430.56	405.98	455.14
+	"Alameda County, CA"	"06001"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1985	118099	1680.79	1606.85	1754.74
+	"Alameda County, CA"	"06001"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3188	398788	799.42	771.67	827.17
+	"Alameda County, CA"	"06001"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	40	2767	1445.61	1032.76	1968.51
+	"Alameda County, CA"	"06001"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1317	213531	616.77	583.46	650.08
+	"Alameda County, CA"	"06001"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	2017	89523	2253.05	2154.72	2351.38
+	"Alameda County, CA"	"06001"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3957	331795	1192.60	1155.44	1229.76
+	"Alameda County, CA"	"06001"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	37	1889	1958.71	1379.11	2699.82
+	"Alameda County, CA"	"06001"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1592	147235	1081.26	1028.15	1134.38
+	"Alameda County, CA"	"06001"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1822	62323	2923.48	2789.24	3057.72
+	"Alameda County, CA"	"06001"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	4497	241297	1863.68	1809.21	1918.15
+	"Alameda County, CA"	"06001"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	35	1172	2986.35	2080.11	4153.29
+	"Alameda County, CA"	"06001"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1933	105838	1826.38	1744.96	1907.80
+	"Alameda County, CA"	"06001"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1824	42099	4332.64	4133.81	4531.48
+	"Alameda County, CA"	"06001"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	4978	160193	3107.50	3021.18	3193.83
+	"Alameda County, CA"	"06001"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	26	644	4037.27	2637.26	5915.52
+	"Alameda County, CA"	"06001"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	2571	77718	3308.11	3180.24	3435.99
+	"Alameda County, CA"	"06001"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1831	27974	6545.36	6245.55	6845.17
+	"Alameda County, CA"	"06001"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	6309	113813	5543.30	5406.52	5680.09
+	"Alameda County, CA"	"06001"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	48	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	3023	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1723	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	7989	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	2491	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	1556	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	7713	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1189	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	736	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3612	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	304	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	211	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	869	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Alameda County, CA"	"06001"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	487	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	58	19554	296.61	225.23	383.44
+	"Contra Costa County, CA"	"06013"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	101	13976	722.67	581.73	863.61
+	"Contra Costa County, CA"	"06013"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	131	42139	310.88	257.64	364.11
+	"Contra Costa County, CA"	"06013"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	1900	Unreliable	0.00	0.00
+	"Contra Costa County, CA"	"06013"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	11	87173	Unreliable	6.30	22.58
+	"Contra Costa County, CA"	"06013"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	14	54133	Unreliable	14.14	43.39
+	"Contra Costa County, CA"	"06013"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	189713	12.12	7.69	18.19
+	"Contra Costa County, CA"	"06013"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	2637	Unreliable	0.00	0.00
+	"Contra Costa County, CA"	"06013"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	127432	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	11	73000	Unreliable	7.52	26.96
+	"Contra Costa County, CA"	"06013"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	18	261503	Unreliable	4.08	10.88
+	"Contra Costa County, CA"	"06013"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	2758	Unreliable	0.00	0.00
+	"Contra Costa County, CA"	"06013"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	135575	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	11	79879	Unreliable	6.87	24.64
+	"Contra Costa County, CA"	"06013"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	285115	7.37	4.56	11.26
+	"Contra Costa County, CA"	"06013"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2979	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	21	118825	17.67	10.94	27.02
+	"Contra Costa County, CA"	"06013"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	81	84249	96.14	76.35	119.50
+	"Contra Costa County, CA"	"06013"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	93	281253	33.07	26.69	40.51
+	"Contra Costa County, CA"	"06013"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2916	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	48	109756	43.73	32.25	57.98
+	"Contra Costa County, CA"	"06013"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	160	81051	197.41	166.82	228.00
+	"Contra Costa County, CA"	"06013"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	189	247738	76.29	65.41	87.17
+	"Contra Costa County, CA"	"06013"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2931	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	59	127829	46.16	35.14	59.54
+	"Contra Costa County, CA"	"06013"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	158	78671	200.84	169.52	232.15
+	"Contra Costa County, CA"	"06013"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	236	263083	89.71	78.26	101.15
+	"Contra Costa County, CA"	"06013"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2818	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	74	141084	52.45	41.19	65.85
+	"Contra Costa County, CA"	"06013"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	165	70588	233.75	198.08	269.42
+	"Contra Costa County, CA"	"06013"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	293	282899	103.57	91.71	115.43
+	"Contra Costa County, CA"	"06013"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2688	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	83	159948	51.89	41.33	64.33
+	"Contra Costa County, CA"	"06013"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	172	67407	255.17	217.03	293.30
+	"Contra Costa County, CA"	"06013"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	337	295007	114.23	102.04	126.43
+	"Contra Costa County, CA"	"06013"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2797	Suppressed	Suppressed	Suppressed
+	"Contra Costa County, CA"	"06013"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	136	175166	77.64	64.59	90.69
+	"Contra Costa County, CA"	"06013"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	241	68934	349.61	305.47	393.75
+	"Contra Costa County, CA"	"06013"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	475	318916	148.94	135.55	162.34
+	"Contra Costa County, CA"	"06013"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	19	3162	Unreliable	361.78	938.35
+	"Contra Costa County, CA"	"06013"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	214	165490	129.31	111.99	146.64
+	"Contra Costa County, CA"	"06013"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	355	73838	480.78	430.77	530.80
+	"Contra Costa County, CA"	"06013"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	767	378930	202.41	188.09	216.74
+	"Contra Costa County, CA"	"06013"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	16	3390	Unreliable	269.78	766.46
+	"Contra Costa County, CA"	"06013"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	275	145765	188.66	166.36	210.96
+	"Contra Costa County, CA"	"06013"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	469	77466	605.43	550.63	660.22
+	"Contra Costa County, CA"	"06013"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1472	434846	338.51	321.22	355.80
+	"Contra Costa County, CA"	"06013"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	18	3286	Unreliable	324.65	865.73
+	"Contra Costa County, CA"	"06013"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	348	131981	263.67	235.97	291.38
+	"Contra Costa County, CA"	"06013"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	731	72737	1004.99	932.14	1077.85
+	"Contra Costa County, CA"	"06013"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2208	442934	498.49	477.70	519.29
+	"Contra Costa County, CA"	"06013"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	24	2921	821.64	526.44	1222.53
+	"Contra Costa County, CA"	"06013"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	491	118400	414.70	378.01	451.38
+	"Contra Costa County, CA"	"06013"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	894	60993	1465.74	1369.66	1561.82
+	"Contra Costa County, CA"	"06013"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3003	402400	746.27	719.58	772.96
+	"Contra Costa County, CA"	"06013"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	27	2232	1209.68	797.19	1760.02
+	"Contra Costa County, CA"	"06013"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	639	94787	674.14	621.87	726.41
+	"Contra Costa County, CA"	"06013"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	989	46597	2122.45	1990.17	2254.73
+	"Contra Costa County, CA"	"06013"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3800	344408	1103.34	1068.26	1138.42
+	"Contra Costa County, CA"	"06013"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	36	1511	2382.53	1668.70	3298.42
+	"Contra Costa County, CA"	"06013"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	724	67401	1074.17	995.92	1152.41
+	"Contra Costa County, CA"	"06013"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	883	31807	2776.12	2593.01	2959.23
+	"Contra Costa County, CA"	"06013"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	4691	265442	1767.24	1716.67	1817.81
+	"Contra Costa County, CA"	"06013"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	28	800	3500.00	2325.72	5058.48
+	"Contra Costa County, CA"	"06013"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	850	46207	1839.55	1715.88	1963.22
+	"Contra Costa County, CA"	"06013"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	905	21341	4240.66	3964.37	4516.95
+	"Contra Costa County, CA"	"06013"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	5415	181819	2978.24	2898.91	3057.56
+	"Contra Costa County, CA"	"06013"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	30	472	6355.93	4288.35	9073.47
+	"Contra Costa County, CA"	"06013"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1050	30416	3452.13	3243.32	3660.94
+	"Contra Costa County, CA"	"06013"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	860	13391	6422.22	5992.99	6851.46
+	"Contra Costa County, CA"	"06013"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	6857	129134	5309.99	5184.30	5435.67
+	"Contra Costa County, CA"	"06013"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	29	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1120	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	789	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	8872	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	928	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	645	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	8166	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	422	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	255	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3836	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	92	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	73	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	909	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	66	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	2037	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	770	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	12260	187.60	118.92	281.49
+	"Marin County, CA"	"06041"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	290	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	7620	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	3176	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	60799	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	403	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	10710	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	4577	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	94862	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	469	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	11136	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	4928	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	106298	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	536	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	10736	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	4967	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	27	95685	28.22	18.60	41.06
+	"Marin County, CA"	"06041"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	430	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	8993	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	5870	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	51	69980	72.88	54.26	95.82
+	"Marin County, CA"	"06041"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	418	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	10157	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	5420	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	48	62759	76.48	56.39	101.41
+	"Marin County, CA"	"06041"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	439	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	11957	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	5541	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	52	71460	72.77	54.35	95.43
+	"Marin County, CA"	"06041"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	542	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	14103	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	5948	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	77	91448	84.20	66.45	105.24
+	"Marin County, CA"	"06041"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	592	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	15490	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	17	6929	Unreliable	142.92	392.82
+	"Marin County, CA"	"06041"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	118	121281	97.29	79.74	114.85
+	"Marin County, CA"	"06041"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	689	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	10	15539	Unreliable	30.86	118.35
+	"Marin County, CA"	"06041"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	19	7182	Unreliable	159.28	413.13
+	"Marin County, CA"	"06041"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	213	149280	142.68	123.52	161.85
+	"Marin County, CA"	"06041"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	692	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	28	14916	187.72	124.74	271.30
+	"Marin County, CA"	"06041"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	27	6500	415.38	273.74	604.36
+	"Marin County, CA"	"06041"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	337	161696	208.42	186.16	230.67
+	"Marin County, CA"	"06041"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	643	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	31	13420	231.00	156.95	327.88
+	"Marin County, CA"	"06041"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	33	5248	628.81	432.84	883.08
+	"Marin County, CA"	"06041"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	605	166896	362.50	333.62	391.39
+	"Marin County, CA"	"06041"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	532	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	43	11608	370.43	268.08	498.97
+	"Marin County, CA"	"06041"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	52	4174	1245.81	930.43	1633.71
+	"Marin County, CA"	"06041"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	848	166888	508.13	473.92	542.33
+	"Marin County, CA"	"06041"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	377	Unreliable	0.00	0.00
+	"Marin County, CA"	"06041"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	47	9139	514.28	377.87	683.88
+	"Marin County, CA"	"06041"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	52	2859	1818.82	1358.38	2385.14
+	"Marin County, CA"	"06041"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1206	152340	791.65	746.97	836.33
+	"Marin County, CA"	"06041"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	228	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	57	6333	900.05	681.69	1166.12
+	"Marin County, CA"	"06041"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	42	1760	2386.36	1719.88	3225.67
+	"Marin County, CA"	"06041"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1486	118390	1255.17	1191.35	1318.99
+	"Marin County, CA"	"06041"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	115	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	81	4366	1855.25	1473.32	2305.90
+	"Marin County, CA"	"06041"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	51	1270	4015.75	2990.01	5279.99
+	"Marin County, CA"	"06041"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1710	78775	2170.74	2067.85	2273.63
+	"Marin County, CA"	"06041"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	74	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	91	3183	2858.94	2301.85	3510.15
+	"Marin County, CA"	"06041"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	31	876	3538.81	2404.45	5023.06
+	"Marin County, CA"	"06041"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2348	53734	4369.67	4192.92	4546.42
+	"Marin County, CA"	"06041"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	113	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	50	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3104	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	115	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	28	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3061	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	53	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1559	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	345	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	56	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	983	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	360	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	5089	393.00	240.06	606.96
+	"Napa County, CA"	"06055"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	258	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	4384	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	1424	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	21859	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	284	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	7178	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	2042	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	29768	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	359	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	8335	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	2229	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	33014	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	507	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	8763	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	2529	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	36070	Unreliable	15.22	54.57
+	"Napa County, CA"	"06055"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	473	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	8614	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	2667	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	35448	70.53	45.64	104.11
+	"Napa County, CA"	"06055"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	429	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	7693	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	2362	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	42	38399	109.38	78.83	147.85
+	"Napa County, CA"	"06055"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	335	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	6802	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	1943	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	35	40085	87.31	60.82	121.43
+	"Napa County, CA"	"06055"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	385	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	8662	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	2024	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	50	39922	125.24	92.96	165.12
+	"Napa County, CA"	"06055"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	448	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	10410	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	2135	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	74	42306	174.92	137.35	219.59
+	"Napa County, CA"	"06055"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	501	Unreliable	0.00	0.00
+	"Napa County, CA"	"06055"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	10	9307	Unreliable	51.52	197.60
+	"Napa County, CA"	"06055"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	2485	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	131	50281	260.54	215.92	305.15
+	"Napa County, CA"	"06055"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	604	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	12	8225	Unreliable	75.39	254.85
+	"Napa County, CA"	"06055"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	2848	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	229	58993	388.18	337.90	438.46
+	"Napa County, CA"	"06055"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	630	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	15	8261	Unreliable	101.63	299.48
+	"Napa County, CA"	"06055"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	15	2425	Unreliable	346.20	1020.22
+	"Napa County, CA"	"06055"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	378	65370	578.25	519.95	636.54
+	"Napa County, CA"	"06055"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	672	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	32	7417	431.44	295.11	609.07
+	"Napa County, CA"	"06055"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	20	1945	1028.28	628.10	1588.09
+	"Napa County, CA"	"06055"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	568	66316	856.51	786.07	926.94
+	"Napa County, CA"	"06055"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	480	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	48	5798	827.87	610.41	1097.63
+	"Napa County, CA"	"06055"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	18	1353	Unreliable	788.46	2102.57
+	"Napa County, CA"	"06055"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	737	60957	1209.05	1121.76	1296.34
+	"Napa County, CA"	"06055"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	315	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	43	4090	1051.34	760.86	1416.15
+	"Napa County, CA"	"06055"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	22	963	2284.53	1431.69	3458.80
+	"Napa County, CA"	"06055"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	892	47491	1878.25	1754.99	2001.51
+	"Napa County, CA"	"06055"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	205	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	76	3109	2444.52	1926.01	3059.68
+	"Napa County, CA"	"06055"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	33	595	5546.22	3817.74	7788.94
+	"Napa County, CA"	"06055"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1051	34267	3067.09	2881.66	3252.52
+	"Napa County, CA"	"06055"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	118	Suppressed	Suppressed	Suppressed
+	"Napa County, CA"	"06055"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	73	1891	3860.39	3025.93	4853.86
+	"Napa County, CA"	"06055"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	30	348	8620.69	5816.38	12306.55
+	"Napa County, CA"	"06055"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1430	25190	5676.86	5382.62	5971.09
+	"Napa County, CA"	"06055"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	82	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1806	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	59	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1800	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	868	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	150	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	264	Unreliable	0.00	0.00
+	"San Francisco County, CA"	"06075"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	63	24987	252.13	193.75	322.58
+	"San Francisco County, CA"	"06075"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	33	4760	693.28	477.22	973.62
+	"San Francisco County, CA"	"06075"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	82	39848	205.78	163.66	255.43
+	"San Francisco County, CA"	"06075"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	905	Unreliable	0.00	0.00
+	"San Francisco County, CA"	"06075"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	15	90034	Unreliable	9.32	27.48
+	"San Francisco County, CA"	"06075"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	19061	Unreliable	25.16	96.48
+	"San Francisco County, CA"	"06075"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	119521	Unreliable	4.59	16.47
+	"San Francisco County, CA"	"06075"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	912	Unreliable	0.00	0.00
+	"San Francisco County, CA"	"06075"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	106821	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	22674	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	105980	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	705	Unreliable	0.00	0.00
+	"San Francisco County, CA"	"06075"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	111547	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	22544	Unreliable	21.27	81.58
+	"San Francisco County, CA"	"06075"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	83116	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	1100	Unreliable	0.00	0.00
+	"San Francisco County, CA"	"06075"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	24	125255	19.16	12.28	28.51
+	"San Francisco County, CA"	"06075"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	40	27378	146.10	104.38	198.95
+	"San Francisco County, CA"	"06075"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	17	86442	Unreliable	11.46	31.49
+	"San Francisco County, CA"	"06075"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1744	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	59	193555	30.48	23.20	39.32
+	"San Francisco County, CA"	"06075"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	76	35524	213.94	168.56	267.78
+	"San Francisco County, CA"	"06075"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	85	173955	48.86	39.03	60.42
+	"San Francisco County, CA"	"06075"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2859	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	81	313977	25.80	20.49	32.06
+	"San Francisco County, CA"	"06075"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	82	45709	179.40	142.68	222.68
+	"San Francisco County, CA"	"06075"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	173	478765	36.13	30.75	41.52
+	"San Francisco County, CA"	"06075"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2747	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	101	289143	34.93	28.12	41.74
+	"San Francisco County, CA"	"06075"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	86	39361	218.49	174.76	269.83
+	"San Francisco County, CA"	"06075"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	245	493162	49.68	43.46	55.90
+	"San Francisco County, CA"	"06075"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2169	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	142	230663	61.56	51.44	71.69
+	"San Francisco County, CA"	"06075"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	102	32382	314.99	253.86	376.12
+	"San Francisco County, CA"	"06075"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	319	357053	89.34	79.54	99.15
+	"San Francisco County, CA"	"06075"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1961	Suppressed	Suppressed	Suppressed
+	"San Francisco County, CA"	"06075"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	189	210013	89.99	77.16	102.82
+	"San Francisco County, CA"	"06075"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	153	30026	509.56	428.82	590.30
+	"San Francisco County, CA"	"06075"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	457	288778	158.25	143.74	172.76
+	"San Francisco County, CA"	"06075"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	15	2140	Unreliable	392.31	1156.09
+	"San Francisco County, CA"	"06075"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	328	206852	158.57	141.41	175.73
+	"San Francisco County, CA"	"06075"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	226	32199	701.89	610.38	793.40
+	"San Francisco County, CA"	"06075"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	609	262999	231.56	213.17	249.95
+	"San Francisco County, CA"	"06075"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	13	2090	Unreliable	331.20	1063.66
+	"San Francisco County, CA"	"06075"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	445	208190	213.75	193.89	233.61
+	"San Francisco County, CA"	"06075"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	405	35661	1135.69	1025.09	1246.30
+	"San Francisco County, CA"	"06075"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	925	233343	396.41	370.87	421.96
+	"San Francisco County, CA"	"06075"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	27	1558	1732.99	1142.06	2521.42
+	"San Francisco County, CA"	"06075"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	656	212133	309.24	285.58	332.90
+	"San Francisco County, CA"	"06075"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	583	36998	1575.76	1447.85	1703.67
+	"San Francisco County, CA"	"06075"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1209	212362	569.31	537.22	601.40
+	"San Francisco County, CA"	"06075"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	21	1146	1832.46	1134.33	2801.12
+	"San Francisco County, CA"	"06075"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1013	207222	488.85	458.74	518.95
+	"San Francisco County, CA"	"06075"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	788	32629	2415.03	2246.41	2583.65
+	"San Francisco County, CA"	"06075"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1702	197137	863.36	822.34	904.38
+	"San Francisco County, CA"	"06075"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	16	1009	Unreliable	906.39	2575.13
+	"San Francisco County, CA"	"06075"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1138	170064	669.16	630.28	708.04
+	"San Francisco County, CA"	"06075"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	670	24740	2708.16	2503.10	2913.23
+	"San Francisco County, CA"	"06075"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2083	168679	1234.89	1181.86	1287.92
+	"San Francisco County, CA"	"06075"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	21	691	3039.07	1881.25	4645.56
+	"San Francisco County, CA"	"06075"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1294	121544	1064.64	1006.63	1122.64
+	"San Francisco County, CA"	"06075"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	613	18091	3388.43	3120.19	3656.67
+	"San Francisco County, CA"	"06075"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2047	122943	1665.00	1592.87	1737.13
+	"San Francisco County, CA"	"06075"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	13	439	Unreliable	1576.76	5063.87
+	"San Francisco County, CA"	"06075"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1951	99297	1964.81	1877.63	2052.00
+	"San Francisco County, CA"	"06075"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	597	13503	4421.24	4066.58	4775.90
+	"San Francisco County, CA"	"06075"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2174	82780	2626.24	2515.84	2736.64
+	"San Francisco County, CA"	"06075"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	13	276	Unreliable	2507.96	8054.49
+	"San Francisco County, CA"	"06075"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	3092	85286	3625.45	3497.66	3753.24
+	"San Francisco County, CA"	"06075"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	609	9742	6251.28	5754.79	6747.78
+	"San Francisco County, CA"	"06075"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2778	60786	4570.13	4400.18	4740.08
+	"San Francisco County, CA"	"06075"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	3831	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	612	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3660	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	3253	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	525	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3596	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1576	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	280	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1978	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	432	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	80	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	527	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	190	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	78	27250	286.24	226.26	357.24
+	"San Mateo County, CA"	"06081"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	17	2939	Unreliable	336.96	926.12
+	"San Mateo County, CA"	"06081"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	59	28822	204.70	155.83	264.05
+	"San Mateo County, CA"	"06081"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	718	Unreliable	0.00	0.00
+	"San Mateo County, CA"	"06081"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	14	103017	Unreliable	7.43	22.80
+	"San Mateo County, CA"	"06081"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	10539	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	123628	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	962	Unreliable	0.00	0.00
+	"San Mateo County, CA"	"06081"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	14	124602	Unreliable	6.14	18.85
+	"San Mateo County, CA"	"06081"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	12660	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	158375	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	890	Unreliable	0.00	0.00
+	"San Mateo County, CA"	"06081"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	16	118573	Unreliable	7.71	21.91
+	"San Mateo County, CA"	"06081"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	12362	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	159922	Unreliable	5.72	16.25
+	"San Mateo County, CA"	"06081"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	933	Unreliable	0.00	0.00
+	"San Mateo County, CA"	"06081"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	15	107527	Unreliable	7.81	23.01
+	"San Mateo County, CA"	"06081"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	11	12936	Unreliable	42.45	152.15
+	"San Mateo County, CA"	"06081"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30	144170	20.81	14.04	29.71
+	"San Mateo County, CA"	"06081"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1036	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	44	118994	36.98	26.87	49.64
+	"San Mateo County, CA"	"06081"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	20	13882	144.07	88.00	222.51
+	"San Mateo County, CA"	"06081"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	81	133330	60.75	48.25	75.51
+	"San Mateo County, CA"	"06081"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	1204	Unreliable	0.00	0.00
+	"San Mateo County, CA"	"06081"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	51	183681	27.77	20.67	36.51
+	"San Mateo County, CA"	"06081"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	19	16169	Unreliable	70.75	183.50
+	"San Mateo County, CA"	"06081"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	112	170724	65.60	53.45	77.75
+	"San Mateo County, CA"	"06081"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1025	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	77	208868	36.87	29.09	46.08
+	"San Mateo County, CA"	"06081"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	15375	149.59	94.83	224.46
+	"San Mateo County, CA"	"06081"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	134	191030	70.15	58.27	82.02
+	"San Mateo County, CA"	"06081"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	904	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	112	200942	55.74	45.41	66.06
+	"San Mateo County, CA"	"06081"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	13316	172.72	109.49	259.17
+	"San Mateo County, CA"	"06081"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	145	192831	75.20	62.96	87.43
+	"San Mateo County, CA"	"06081"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	944	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	131	186330	70.31	58.27	82.34
+	"San Mateo County, CA"	"06081"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	26	12899	201.57	131.67	295.34
+	"San Mateo County, CA"	"06081"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	204	205424	99.31	85.68	112.93
+	"San Mateo County, CA"	"06081"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1036	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	205	169939	120.63	104.12	137.15
+	"San Mateo County, CA"	"06081"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	41	13766	297.84	213.73	404.05
+	"San Mateo County, CA"	"06081"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	376	232536	161.70	145.35	178.04
+	"San Mateo County, CA"	"06081"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1174	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	318	159359	199.55	177.62	221.48
+	"San Mateo County, CA"	"06081"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	98	15542	630.55	511.91	768.44
+	"San Mateo County, CA"	"06081"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	710	252710	280.95	260.29	301.62
+	"San Mateo County, CA"	"06081"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1287	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	454	153549	295.67	268.47	322.87
+	"San Mateo County, CA"	"06081"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	149	15041	990.63	831.56	1149.69
+	"San Mateo County, CA"	"06081"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1165	256827	453.61	427.56	479.66
+	"San Mateo County, CA"	"06081"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1151	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	624	138543	450.40	415.06	485.74
+	"San Mateo County, CA"	"06081"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	185	13360	1384.73	1185.19	1584.27
+	"San Mateo County, CA"	"06081"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1583	235630	671.82	638.72	704.91
+	"San Mateo County, CA"	"06081"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	13	853	Unreliable	811.49	2606.14
+	"San Mateo County, CA"	"06081"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	743	111157	668.42	620.36	716.49
+	"San Mateo County, CA"	"06081"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	200	10692	1870.56	1611.31	2129.80
+	"San Mateo County, CA"	"06081"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2041	197601	1032.89	988.08	1077.70
+	"San Mateo County, CA"	"06081"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	600	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	816	77680	1050.46	978.39	1122.54
+	"San Mateo County, CA"	"06081"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	174	8127	2141.01	1822.88	2459.14
+	"San Mateo County, CA"	"06081"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2361	151792	1555.42	1492.68	1618.16
+	"San Mateo County, CA"	"06081"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	332	Unreliable	1444.40	5539.28
+	"San Mateo County, CA"	"06081"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1009	53661	1880.32	1764.30	1996.35
+	"San Mateo County, CA"	"06081"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	243	6337	3834.62	3352.48	4316.76
+	"San Mateo County, CA"	"06081"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2931	109811	2669.13	2572.50	2765.76
+	"San Mateo County, CA"	"06081"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	201	Suppressed	Suppressed	Suppressed
+	"San Mateo County, CA"	"06081"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1287	37593	3423.51	3236.47	3610.55
+	"San Mateo County, CA"	"06081"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	272	4792	5676.13	5001.56	6350.69
+	"San Mateo County, CA"	"06081"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	4069	83425	4877.43	4727.57	5027.30
+	"San Mateo County, CA"	"06081"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1387	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	254	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	5580	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1126	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	161	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	5608	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	498	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	82	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2707	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	131	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	655	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	643	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	221	76802	287.75	249.81	325.69
+	"Santa Clara County, CA"	"06085"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	39	7338	531.48	377.94	726.55
+	"Santa Clara County, CA"	"06085"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	165	61074	270.16	228.94	311.39
+	"Santa Clara County, CA"	"06085"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	2742	Unreliable	0.00	0.00
+	"Santa Clara County, CA"	"06085"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	45	342168	13.15	9.59	17.60
+	"Santa Clara County, CA"	"06085"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	26685	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	243153	11.93	7.99	17.13
+	"Santa Clara County, CA"	"06085"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	3835	Unreliable	0.00	0.00
+	"Santa Clara County, CA"	"06085"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	37	432812	8.55	6.02	11.78
+	"Santa Clara County, CA"	"06085"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	32964	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	308085	8.11	5.25	11.98
+	"Santa Clara County, CA"	"06085"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	3588	Unreliable	0.00	0.00
+	"Santa Clara County, CA"	"06085"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	33	419531	7.87	5.41	11.05
+	"Santa Clara County, CA"	"06085"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	32232	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	317765	7.87	5.09	11.61
+	"Santa Clara County, CA"	"06085"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	3871	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	87	365430	23.81	19.07	29.37
+	"Santa Clara County, CA"	"06085"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	13	36956	Unreliable	18.73	60.15
+	"Santa Clara County, CA"	"06085"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	92	328286	28.02	22.59	34.37
+	"Santa Clara County, CA"	"06085"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	4031	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	133	386237	34.43	28.58	40.29
+	"Santa Clara County, CA"	"06085"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	36	42013	85.69	60.01	118.63
+	"Santa Clara County, CA"	"06085"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	201	344834	58.29	50.23	66.35
+	"Santa Clara County, CA"	"06085"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	4104	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	149	585619	25.44	21.36	29.53
+	"Santa Clara County, CA"	"06085"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	31	45119	68.71	46.68	97.52
+	"Santa Clara County, CA"	"06085"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	245	420654	58.24	50.95	65.54
+	"Santa Clara County, CA"	"06085"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	3840	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	188	637944	29.47	25.26	33.68
+	"Santa Clara County, CA"	"06085"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	37	42210	87.66	61.72	120.82
+	"Santa Clara County, CA"	"06085"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	258	419565	61.49	53.99	69.00
+	"Santa Clara County, CA"	"06085"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	3439	Suppressed	Suppressed	Suppressed
+	"Santa Clara County, CA"	"06085"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	240	612884	39.16	34.20	44.11
+	"Santa Clara County, CA"	"06085"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	48	38467	124.78	92.00	165.44
+	"Santa Clara County, CA"	"06085"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	347	386788	89.71	80.27	99.15
+	"Santa Clara County, CA"	"06085"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	3550	Unreliable	135.08	518.04
+	"Santa Clara County, CA"	"06085"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	374	587399	63.67	57.22	70.12
+	"Santa Clara County, CA"	"06085"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	85	33806	251.43	200.84	310.90
+	"Santa Clara County, CA"	"06085"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	503	399507	125.91	114.90	136.91
+	"Santa Clara County, CA"	"06085"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	11	3805	Unreliable	144.32	517.27
+	"Santa Clara County, CA"	"06085"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	536	543535	98.61	90.27	106.96
+	"Santa Clara County, CA"	"06085"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	116	34059	340.59	278.61	402.57
+	"Santa Clara County, CA"	"06085"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	945	465817	202.87	189.93	215.80
+	"Santa Clara County, CA"	"06085"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	27	4167	647.95	427.00	942.73
+	"Santa Clara County, CA"	"06085"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	786	473008	166.17	154.55	177.79
+	"Santa Clara County, CA"	"06085"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	206	35639	578.02	499.08	656.95
+	"Santa Clara County, CA"	"06085"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1694	531490	318.73	303.55	333.90
+	"Santa Clara County, CA"	"06085"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	28	3950	708.86	471.03	1024.50
+	"Santa Clara County, CA"	"06085"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1116	407016	274.19	258.10	290.28
+	"Santa Clara County, CA"	"06085"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	273	33983	803.34	708.05	898.64
+	"Santa Clara County, CA"	"06085"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2557	531221	481.34	462.69	500.00
+	"Santa Clara County, CA"	"06085"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	34	3310	1027.19	711.36	1435.40
+	"Santa Clara County, CA"	"06085"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1375	338097	406.69	385.19	428.18
+	"Santa Clara County, CA"	"06085"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	355	26315	1349.04	1208.71	1489.38
+	"Santa Clara County, CA"	"06085"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3236	453702	713.24	688.67	737.82
+	"Santa Clara County, CA"	"06085"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	22	2396	918.20	575.42	1390.16
+	"Santa Clara County, CA"	"06085"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1669	264192	631.74	601.43	662.05
+	"Santa Clara County, CA"	"06085"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	323	18350	1760.22	1568.25	1952.18
+	"Santa Clara County, CA"	"06085"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3936	368347	1068.56	1035.17	1101.94
+	"Santa Clara County, CA"	"06085"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	21	1565	1341.85	830.63	2051.17
+	"Santa Clara County, CA"	"06085"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1830	193546	945.51	902.19	988.83
+	"Santa Clara County, CA"	"06085"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	305	12622	2416.42	2145.22	2687.61
+	"Santa Clara County, CA"	"06085"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	4706	290586	1619.49	1573.22	1665.76
+	"Santa Clara County, CA"	"06085"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	36	1039	3464.87	2426.76	4796.84
+	"Santa Clara County, CA"	"06085"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	2341	140797	1662.68	1595.32	1730.03
+	"Santa Clara County, CA"	"06085"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	325	8513	3817.69	3402.63	4232.75
+	"Santa Clara County, CA"	"06085"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	5955	217961	2732.14	2662.75	2801.53
+	"Santa Clara County, CA"	"06085"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	36	629	5723.37	4008.59	7923.55
+	"Santa Clara County, CA"	"06085"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	3019	97746	3088.62	2978.44	3198.79
+	"Santa Clara County, CA"	"06085"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	264	5170	5106.38	4490.40	5722.36
+	"Santa Clara County, CA"	"06085"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	8084	161838	4995.12	4886.23	5104.01
+	"Santa Clara County, CA"	"06085"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	3433	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	254	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10386	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	2871	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	162	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	9773	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	1429	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	79	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	4544	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	331	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1018	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	279	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	35	7487	467.48	325.62	650.15
+	"Solano County, CA"	"06095"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	64	8381	763.63	588.09	975.14
+	"Solano County, CA"	"06095"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	70	16219	431.59	336.45	545.29
+	"Solano County, CA"	"06095"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	1174	Unreliable	0.00	0.00
+	"Solano County, CA"	"06095"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	29424	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	32248	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	67812	Unreliable	16.87	43.75
+	"Solano County, CA"	"06095"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	1421	Unreliable	0.00	0.00
+	"Solano County, CA"	"06095"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	40533	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	42365	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	84384	Unreliable	6.51	23.32
+	"Solano County, CA"	"06095"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	1465	Unreliable	0.00	0.00
+	"Solano County, CA"	"06095"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	43620	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	44629	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	83811	Unreliable	7.40	25.01
+	"Solano County, CA"	"06095"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1500	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	11	42937	Unreliable	12.79	45.84
+	"Solano County, CA"	"06095"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	39	46935	83.09	59.09	113.59
+	"Solano County, CA"	"06095"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	50	84724	59.02	43.80	77.80
+	"Solano County, CA"	"06095"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	1847	Unreliable	0.00	0.00
+	"Solano County, CA"	"06095"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	17	46375	Unreliable	21.35	58.69
+	"Solano County, CA"	"06095"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	91	52413	173.62	139.79	213.17
+	"Solano County, CA"	"06095"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	87	102400	84.96	68.05	104.80
+	"Solano County, CA"	"06095"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1899	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	29	54882	52.84	35.39	75.89
+	"Solano County, CA"	"06095"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	103	51692	199.26	160.78	237.74
+	"Solano County, CA"	"06095"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	115	116818	98.44	80.45	116.44
+	"Solano County, CA"	"06095"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1661	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	39	53686	72.64	51.66	99.31
+	"Solano County, CA"	"06095"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	99	45255	218.76	177.80	266.33
+	"Solano County, CA"	"06095"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	137	114121	120.05	99.95	140.15
+	"Solano County, CA"	"06095"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1607	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	62	51272	120.92	92.71	155.02
+	"Solano County, CA"	"06095"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	116	40430	286.92	234.70	339.13
+	"Solano County, CA"	"06095"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	168	102478	163.94	139.15	188.73
+	"Solano County, CA"	"06095"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1579	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	77	49886	154.35	121.81	192.91
+	"Solano County, CA"	"06095"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	129	40322	319.92	264.72	375.13
+	"Solano County, CA"	"06095"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	220	100970	217.89	189.09	246.68
+	"Solano County, CA"	"06095"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	1733	Suppressed	Suppressed	Suppressed
+	"Solano County, CA"	"06095"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	111	50404	220.22	179.25	261.19
+	"Solano County, CA"	"06095"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	210	45203	464.57	401.74	527.41
+	"Solano County, CA"	"06095"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	368	117213	313.96	281.88	346.04
+	"Solano County, CA"	"06095"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	20	2062	969.93	592.46	1497.98
+	"Solano County, CA"	"06095"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	143	52920	270.22	225.93	314.51
+	"Solano County, CA"	"06095"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	323	50180	643.68	573.48	713.88
+	"Solano County, CA"	"06095"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	652	139328	467.96	432.04	503.88
+	"Solano County, CA"	"06095"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	14	2101	Unreliable	364.30	1118.02
+	"Solano County, CA"	"06095"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	225	54735	411.07	357.36	464.78
+	"Solano County, CA"	"06095"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	442	48894	904.00	819.72	988.27
+	"Solano County, CA"	"06095"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1071	151242	708.14	665.73	750.55
+	"Solano County, CA"	"06095"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	13	1769	Unreliable	391.29	1256.66
+	"Solano County, CA"	"06095"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	305	52318	582.97	517.55	648.40
+	"Solano County, CA"	"06095"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	567	40447	1401.83	1286.45	1517.22
+	"Solano County, CA"	"06095"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1488	141061	1054.86	1001.26	1108.46
+	"Solano County, CA"	"06095"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	15	1292	Unreliable	649.79	1914.88
+	"Solano County, CA"	"06095"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	338	43899	769.95	687.86	852.03
+	"Solano County, CA"	"06095"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	584	30196	1934.03	1777.17	2090.89
+	"Solano County, CA"	"06095"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1748	118599	1473.87	1404.78	1542.97
+	"Solano County, CA"	"06095"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	20	895	2234.64	1364.98	3451.22
+	"Solano County, CA"	"06095"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	397	31376	1265.30	1140.83	1389.77
+	"Solano County, CA"	"06095"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	511	20561	2485.29	2269.80	2700.78
+	"Solano County, CA"	"06095"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2012	86023	2338.91	2236.71	2441.11
+	"Solano County, CA"	"06095"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	18	532	Unreliable	2005.24	5347.32
+	"Solano County, CA"	"06095"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	458	21007	2180.23	1980.55	2379.90
+	"Solano County, CA"	"06095"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	595	13982	4255.47	3913.53	4597.41
+	"Solano County, CA"	"06095"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2102	56986	3688.63	3530.94	3846.32
+	"Solano County, CA"	"06095"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	15	299	Unreliable	2807.81	8274.33
+	"Solano County, CA"	"06095"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	579	14953	3872.13	3556.73	4187.54
+	"Solano County, CA"	"06095"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	612	8808	6948.23	6397.73	7498.73
+	"Solano County, CA"	"06095"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2619	39859	6570.66	6319.01	6822.31
+	"Solano County, CA"	"06095"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	618	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	463	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2790	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	466	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	322	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2383	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	157	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	126	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1049	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	32	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	32	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	173	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	477	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	2490	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	1533	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"< 1 year"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	67	24010	279.05	216.26	354.38
+	"Sonoma County, CA"	"06097"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	1888	Unreliable	0.00	0.00
+	"Sonoma County, CA"	"06097"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	9170	Unreliable	0.00	0.00
+	"Sonoma County, CA"	"06097"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	6072	Unreliable	0.00	0.00
+	"Sonoma County, CA"	"06097"	"1-4 years"	"1-4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	98632	21.29	13.18	32.55
+	"Sonoma County, CA"	"06097"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	2570	Unreliable	0.00	0.00
+	"Sonoma County, CA"	"06097"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	12464	Unreliable	0.00	0.00
+	"Sonoma County, CA"	"06097"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	7784	Unreliable	0.00	0.00
+	"Sonoma County, CA"	"06097"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	132051	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	2650	Unreliable	0.00	0.00
+	"Sonoma County, CA"	"06097"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	13572	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	7631	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	15	142175	Unreliable	5.90	17.40
+	"Sonoma County, CA"	"06097"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2870	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	15505	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	8584	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	55	161293	34.10	25.69	44.39
+	"Sonoma County, CA"	"06097"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	3173	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	16003	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	8651	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	137	166345	82.36	68.57	96.15
+	"Sonoma County, CA"	"06097"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	3208	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	17430	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	11	7936	Unreliable	69.19	248.01
+	"Sonoma County, CA"	"06097"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	171	184924	92.47	78.61	106.33
+	"Sonoma County, CA"	"06097"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	3011	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	12	17605	Unreliable	35.22	119.07
+	"Sonoma County, CA"	"06097"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	13	7638	Unreliable	90.63	291.05
+	"Sonoma County, CA"	"06097"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	200	184947	108.14	93.15	123.13
+	"Sonoma County, CA"	"06097"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2970	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	13	17758	Unreliable	38.98	125.19
+	"Sonoma County, CA"	"06097"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	7026	Unreliable	68.25	261.75
+	"Sonoma County, CA"	"06097"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	242	178871	135.29	118.25	152.34
+	"Sonoma County, CA"	"06097"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2728	Suppressed	Suppressed	Suppressed
+	"Sonoma County, CA"	"06097"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	20	18419	108.58	66.33	167.70
+	"Sonoma County, CA"	"06097"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	13	6517	Unreliable	106.21	341.11
+	"Sonoma County, CA"	"06097"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	302	181201	166.67	147.87	185.46
+	"Sonoma County, CA"	"06097"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	16	2961	Unreliable	308.86	877.51
+	"Sonoma County, CA"	"06097"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	30	19092	157.13	106.02	224.32
+	"Sonoma County, CA"	"06097"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	20	6096	328.08	200.40	506.70
+	"Sonoma County, CA"	"06097"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	525	209444	250.66	229.22	272.11
+	"Sonoma County, CA"	"06097"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	18	3567	Unreliable	299.07	797.53
+	"Sonoma County, CA"	"06097"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	33	18321	180.12	123.99	252.96
+	"Sonoma County, CA"	"06097"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	34	6617	513.83	355.84	718.02
+	"Sonoma County, CA"	"06097"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	965	251980	382.97	358.80	407.13
+	"Sonoma County, CA"	"06097"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	22	3353	656.13	411.19	993.39
+	"Sonoma County, CA"	"06097"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	60	17752	337.99	257.92	435.06
+	"Sonoma County, CA"	"06097"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	42	6385	657.79	474.08	889.14
+	"Sonoma County, CA"	"06097"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1586	285660	555.21	527.88	582.53
+	"Sonoma County, CA"	"06097"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	34	2844	1195.50	827.92	1670.59
+	"Sonoma County, CA"	"06097"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	86	15574	552.20	441.69	681.96
+	"Sonoma County, CA"	"06097"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	54	5010	1077.84	809.71	1406.35
+	"Sonoma County, CA"	"06097"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2320	293098	791.54	759.33	823.75
+	"Sonoma County, CA"	"06097"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	36	2303	1563.18	1094.83	2164.10
+	"Sonoma County, CA"	"06097"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	74	11749	629.84	494.56	790.71
+	"Sonoma County, CA"	"06097"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	49	3566	1374.09	1016.56	1816.61
+	"Sonoma County, CA"	"06097"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2940	263684	1114.97	1074.67	1155.27
+	"Sonoma County, CA"	"06097"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	35	1511	2316.35	1613.43	3221.48
+	"Sonoma County, CA"	"06097"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	105	7784	1348.92	1090.90	1606.94
+	"Sonoma County, CA"	"06097"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	56	2328	2405.50	1817.09	3123.73
+	"Sonoma County, CA"	"06097"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3301	191678	1722.16	1663.41	1780.91
+	"Sonoma County, CA"	"06097"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	35	882	3968.25	2764.05	5518.89
+	"Sonoma County, CA"	"06097"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	123	5238	2348.22	1933.23	2763.22
+	"Sonoma County, CA"	"06097"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	54	1366	3953.15	2969.72	5157.99
+	"Sonoma County, CA"	"06097"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	3648	121753	2996.23	2899.00	3093.46
+	"Sonoma County, CA"	"06097"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	30	499	6012.02	4056.31	8582.53
+	"Sonoma County, CA"	"06097"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	143	3675	3891.16	3253.38	4528.93
+	"Sonoma County, CA"	"06097"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	42	904	4646.02	3348.43	6280.07
+	"Sonoma County, CA"	"06097"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	4480	83921	5338.35	5182.03	5494.68
+	"Sonoma County, CA"	"06097"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	23	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	156	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	44	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"85-89 years"	"85-89"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	5720	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	135	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	32	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"90-94 years"	"90-94"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	5540	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	60	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"95-99 years"	"95-99"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	2698	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"100+ years"	"100+"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	582	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"Not Stated"	"NS"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Five-Year Age Groups: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39"
+"years; 40-44 years; 45-49 years; 50-54 years; 55-59 years; 60-64 years ; 65-69 years; 70-74 years; 75-79 years; 80-84 years;"
+"85-89 years; 90-94 years; 95-99 years; 100+ years; Not Stated"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"States: Alameda County, CA (06001); Contra Costa County, CA (06013); Marin County, CA (06041); Napa County, CA (06055); San"
+"Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
+"County, CA (06097)"
+"Year/Month: 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: County; Five-Year Age Groups; Hispanic Origin; Race"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 16, 2024 11:59:40 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 16, 2024 11:59:40 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"9. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

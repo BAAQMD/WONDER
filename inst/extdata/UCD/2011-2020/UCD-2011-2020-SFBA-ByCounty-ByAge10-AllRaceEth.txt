@@ -1,0 +1,172 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Alameda County, CA"	"06001"	"< 1 year"	"1"	713	193610	368.27	341.23	395.30
+	"Alameda County, CA"	"06001"	"1-4 years"	"1-4"	104	775782	13.41	10.83	15.98
+	"Alameda County, CA"	"06001"	"5-14 years"	"5-14"	152	1903832	7.98	6.71	9.25
+	"Alameda County, CA"	"06001"	"15-24 years"	"15-24"	1183	1985857	59.57	56.18	62.97
+	"Alameda County, CA"	"06001"	"25-34 years"	"25-34"	1889	2623480	72.00	68.76	75.25
+	"Alameda County, CA"	"06001"	"35-44 years"	"35-44"	2737	2430679	112.60	108.38	116.82
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	6077	2234607	271.95	265.11	278.79
+	"Alameda County, CA"	"06001"	"55-64 years"	"55-64"	12823	1962257	653.48	642.17	664.79
+	"Alameda County, CA"	"06001"	"65-74 years"	"65-74"	16983	1227244	1383.83	1363.02	1404.65
+	"Alameda County, CA"	"06001"	"75-84 years"	"75-84"	21673	595534	3639.25	3590.80	3687.71
+	"Alameda County, CA"	"06001"	"85+ years"	"85+"	34376	291039	11811.48	11686.61	11936.34
+	"Alameda County, CA"	"06001"	"Not Stated"	"NS"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Contra Costa County, CA"	"06013"	"< 1 year"	"1"	480	122554	391.66	356.63	426.70
+	"Contra Costa County, CA"	"06013"	"1-4 years"	"1-4"	80	528572	15.14	12.00	18.84
+	"Contra Costa County, CA"	"06013"	"5-14 years"	"5-14"	121	1484635	8.15	6.70	9.60
+	"Contra Costa County, CA"	"06013"	"15-24 years"	"15-24"	879	1397174	62.91	58.75	67.07
+	"Contra Costa County, CA"	"06013"	"25-34 years"	"25-34"	1326	1413362	93.82	88.77	98.87
+	"Contra Costa County, CA"	"06013"	"35-44 years"	"35-44"	1860	1520627	122.32	116.76	127.88
+	"Contra Costa County, CA"	"06013"	"45-54 years"	"45-54"	4325	1631613	265.08	257.18	272.98
+	"Contra Costa County, CA"	"06013"	"55-64 years"	"55-64"	8904	1456940	611.14	598.45	623.84
+	"Contra Costa County, CA"	"06013"	"65-74 years"	"65-74"	13036	962356	1354.59	1331.34	1377.85
+	"Contra Costa County, CA"	"06013"	"75-84 years"	"75-84"	17615	476098	3699.87	3645.23	3754.51
+	"Contra Costa County, CA"	"06013"	"85+ years"	"85+"	28331	222691	12722.11	12573.97	12870.26
+	"Contra Costa County, CA"	"06013"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Marin County, CA"	"06041"	"< 1 year"	"1"	49	22505	217.73	161.08	287.85
+	"Marin County, CA"	"06041"	"1-4 years"	"1-4"	Suppressed	101777	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"5-14 years"	"5-14"	20	307306	6.51	3.98	10.05
+	"Marin County, CA"	"06041"	"15-24 years"	"15-24"	127	258038	49.22	40.66	57.78
+	"Marin County, CA"	"06041"	"25-34 years"	"25-34"	161	231580	69.52	58.78	80.26
+	"Marin County, CA"	"06041"	"35-44 years"	"35-44"	291	325729	89.34	79.07	99.60
+	"Marin County, CA"	"06041"	"45-54 years"	"45-54"	739	410908	179.85	166.88	192.81
+	"Marin County, CA"	"06041"	"55-64 years"	"55-64"	1720	400196	429.79	409.48	450.10
+	"Marin County, CA"	"06041"	"65-74 years"	"65-74"	3061	306107	999.98	964.55	1035.40
+	"Marin County, CA"	"06041"	"75-84 years"	"75-84"	4505	148940	3024.71	2936.38	3113.03
+	"Marin County, CA"	"06041"	"85+ years"	"85+"	8724	75780	11512.27	11270.69	11753.85
+	"Marin County, CA"	"06041"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Napa County, CA"	"06055"	"< 1 year"	"1"	47	14529	323.49	237.69	430.18
+	"Napa County, CA"	"06055"	"1-4 years"	"1-4"	11	59749	Unreliable	9.19	32.94
+	"Napa County, CA"	"06055"	"5-14 years"	"5-14"	23	170042	13.53	8.57	20.30
+	"Napa County, CA"	"06055"	"15-24 years"	"15-24"	73	177603	41.10	32.22	51.68
+	"Napa County, CA"	"06055"	"25-34 years"	"25-34"	135	172385	78.31	65.10	91.52
+	"Napa County, CA"	"06055"	"35-44 years"	"35-44"	212	176907	119.84	103.71	135.97
+	"Napa County, CA"	"06055"	"45-54 years"	"45-54"	506	190070	266.22	243.02	289.41
+	"Napa County, CA"	"06055"	"55-64 years"	"55-64"	1190	188396	631.65	595.76	667.54
+	"Napa County, CA"	"06055"	"65-74 years"	"65-74"	1948	138354	1407.98	1345.46	1470.51
+	"Napa County, CA"	"06055"	"75-84 years"	"75-84"	2935	73512	3992.55	3848.10	4136.99
+	"Napa County, CA"	"06055"	"85+ years"	"85+"	5102	36300	14055.10	13669.42	14440.77
+	"Napa County, CA"	"06055"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Francisco County, CA"	"06075"	"< 1 year"	"1"	253	89912	281.39	246.71	316.06
+	"San Francisco County, CA"	"06075"	"1-4 years"	"1-4"	43	298514	14.40	10.42	19.40
+	"San Francisco County, CA"	"06075"	"5-14 years"	"5-14"	55	595908	9.23	6.95	12.01
+	"San Francisco County, CA"	"06075"	"15-24 years"	"15-24"	413	816960	50.55	45.68	55.43
+	"San Francisco County, CA"	"06075"	"25-34 years"	"25-34"	987	1960730	50.34	47.20	53.48
+	"San Francisco County, CA"	"06075"	"35-44 years"	"35-44"	1759	1371876	128.22	122.23	134.21
+	"San Francisco County, CA"	"06075"	"45-54 years"	"45-54"	3656	1144584	319.42	309.06	329.77
+	"San Francisco County, CA"	"06075"	"55-64 years"	"55-64"	7117	1016855	699.90	683.64	716.16
+	"San Francisco County, CA"	"06075"	"65-74 years"	"65-74"	8959	691292	1295.98	1269.14	1322.82
+	"San Francisco County, CA"	"06075"	"75-84 years"	"75-84"	12367	388051	3186.95	3130.78	3243.12
+	"San Francisco County, CA"	"06075"	"85+ years"	"85+"	22169	205444	10790.78	10648.73	10932.82
+	"San Francisco County, CA"	"06075"	"Not Stated"	"NS"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"San Mateo County, CA"	"06081"	"< 1 year"	"1"	257	89200	288.12	252.89	323.34
+	"San Mateo County, CA"	"06081"	"1-4 years"	"1-4"	39	356752	10.93	7.77	14.94
+	"San Mateo County, CA"	"06081"	"5-14 years"	"5-14"	79	888621	8.89	7.04	11.08
+	"San Mateo County, CA"	"06081"	"15-24 years"	"15-24"	337	821819	41.01	36.63	45.38
+	"San Mateo County, CA"	"06081"	"25-34 years"	"25-34"	589	1096128	53.73	49.39	58.07
+	"San Mateo County, CA"	"06081"	"35-44 years"	"35-44"	905	1098841	82.36	76.99	87.73
+	"San Mateo County, CA"	"06081"	"45-54 years"	"45-54"	2212	1084577	203.95	195.45	212.45
+	"San Mateo County, CA"	"06081"	"55-64 years"	"55-64"	4832	978100	494.02	480.09	507.95
+	"San Mateo County, CA"	"06081"	"65-74 years"	"65-74"	7140	640168	1115.33	1089.46	1141.20
+	"San Mateo County, CA"	"06081"	"75-84 years"	"75-84"	10962	339899	3225.08	3164.70	3285.45
+	"San Mateo County, CA"	"06081"	"85+ years"	"85+"	19938	174137	11449.61	11290.68	11608.54
+	"San Mateo County, CA"	"06081"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Santa Clara County, CA"	"06085"	"< 1 year"	"1"	701	233314	300.45	278.21	322.70
+	"Santa Clara County, CA"	"06085"	"1-4 years"	"1-4"	133	950655	13.99	11.61	16.37
+	"Santa Clara County, CA"	"06085"	"5-14 years"	"5-14"	193	2406301	8.02	6.89	9.15
+	"Santa Clara County, CA"	"06085"	"15-24 years"	"15-24"	1025	2324609	44.09	41.39	46.79
+	"Santa Clara County, CA"	"06085"	"25-34 years"	"25-34"	1425	2967952	48.01	45.52	50.51
+	"Santa Clara County, CA"	"06085"	"35-44 years"	"35-44"	2447	2801433	87.35	83.89	90.81
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	5836	2676089	218.08	212.48	223.67
+	"Santa Clara County, CA"	"06085"	"55-64 years"	"55-64"	11352	2177010	521.45	511.86	531.04
+	"Santa Clara County, CA"	"06085"	"65-74 years"	"65-74"	15351	1343253	1142.82	1124.74	1160.90
+	"Santa Clara County, CA"	"06085"	"75-84 years"	"75-84"	23328	731295	3189.96	3149.02	3230.89
+	"Santa Clara County, CA"	"06085"	"85+ years"	"85+"	38320	339743	11279.11	11166.18	11392.05
+	"Santa Clara County, CA"	"06085"	"Not Stated"	"NS"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Solano County, CA"	"06095"	"< 1 year"	"1"	265	51426	515.30	453.26	577.35
+	"Solano County, CA"	"06095"	"1-4 years"	"1-4"	42	214239	19.60	14.13	26.50
+	"Solano County, CA"	"06095"	"5-14 years"	"5-14"	58	553320	10.48	7.96	13.55
+	"Solano County, CA"	"06095"	"15-24 years"	"15-24"	429	574032	74.73	67.66	81.81
+	"Solano County, CA"	"06095"	"25-34 years"	"25-34"	659	623958	105.62	97.55	113.68
+	"Solano County, CA"	"06095"	"35-44 years"	"35-44"	979	547493	178.82	167.61	190.02
+	"Solano County, CA"	"06095"	"45-54 years"	"45-54"	2143	586361	365.47	350.00	380.95
+	"Solano County, CA"	"06095"	"55-64 years"	"55-64"	4650	578584	803.69	780.59	826.79
+	"Solano County, CA"	"06095"	"65-74 years"	"65-74"	6152	376718	1633.05	1592.24	1673.86
+	"Solano County, CA"	"06095"	"75-84 years"	"75-84"	7663	176613	4338.87	4241.72	4436.01
+	"Solano County, CA"	"06095"	"85+ years"	"85+"	9412	73348	12831.98	12572.74	13091.22
+	"Solano County, CA"	"06095"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Sonoma County, CA"	"06097"	"< 1 year"	"1"	148	50298	294.25	246.84	341.65
+	"Sonoma County, CA"	"06097"	"1-4 years"	"1-4"	28	207739	13.48	8.96	19.48
+	"Sonoma County, CA"	"06097"	"5-14 years"	"5-14"	51	571206	8.93	6.65	11.74
+	"Sonoma County, CA"	"06097"	"15-24 years"	"15-24"	336	607222	55.33	49.42	61.25
+	"Sonoma County, CA"	"06097"	"25-34 years"	"25-34"	549	641017	85.65	78.48	92.81
+	"Sonoma County, CA"	"06097"	"35-44 years"	"35-44"	818	612597	133.53	124.38	142.68
+	"Sonoma County, CA"	"06097"	"45-54 years"	"45-54"	2002	669630	298.97	285.87	312.07
+	"Sonoma County, CA"	"06097"	"55-64 years"	"55-64"	4682	722210	648.29	629.72	666.86
+	"Sonoma County, CA"	"06097"	"65-74 years"	"65-74"	7143	528905	1350.53	1319.21	1381.85
+	"Sonoma County, CA"	"06097"	"75-84 years"	"75-84"	9138	237403	3849.15	3770.23	3928.07
+	"Sonoma County, CA"	"06097"	"85+ years"	"85+"	15785	120565	13092.52	12888.28	13296.77
+	"Sonoma County, CA"	"06097"	"Not Stated"	"NS"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"States: Alameda County, CA (06001); Contra Costa County, CA (06013); Marin County, CA (06041); Napa County, CA (06055); San"
+"Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
+"County, CA (06097)"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74"
+"years; 75-84 years; 85+ years; Not Stated"
+"Year/Month: 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: County; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 15, 2024 7:43:13 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 15, 2024 7:43:13 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"6. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

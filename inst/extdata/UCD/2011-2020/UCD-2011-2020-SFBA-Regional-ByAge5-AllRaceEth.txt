@@ -1,0 +1,83 @@
+"Notes"	"State"	"State Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"California"	"06"	"< 1 year"	"1"	2913	867348	335.85	323.65	348.05
+	"California"	"06"	"1-4 years"	"1-4"	489	3493779	14.00	12.76	15.24
+	"California"	"06"	"5-9 years"	"5-9"	340	4447522	7.64	6.83	8.46
+	"California"	"06"	"10-14 years"	"10-14"	412	4433649	9.29	8.40	10.19
+	"California"	"06"	"15-19 years"	"15-19"	1618	4351422	37.18	35.37	39.00
+	"California"	"06"	"20-24 years"	"20-24"	3184	4611892	69.04	66.64	71.44
+	"California"	"06"	"25-29 years"	"25-29"	3569	5801283	61.52	59.50	63.54
+	"California"	"06"	"30-34 years"	"30-34"	4151	5929309	70.01	67.88	72.14
+	"California"	"06"	"35-39 years"	"35-39"	5125	5545378	92.42	89.89	94.95
+	"California"	"06"	"40-44 years"	"40-44"	6883	5340804	128.88	125.83	131.92
+	"California"	"06"	"45-49 years"	"45-49"	10626	5336619	199.11	195.33	202.90
+	"California"	"06"	"50-54 years"	"50-54"	16870	5291820	318.79	313.98	323.60
+	"California"	"06"	"55-59 years"	"55-59"	24823	5043263	492.20	486.08	498.32
+	"California"	"06"	"60-64 years "	"60-64"	32447	4437285	731.24	723.28	739.19
+	"California"	"06"	"65-69 years"	"65-69"	37886	3587807	1055.97	1045.33	1066.60
+	"California"	"06"	"70-74 years"	"70-74"	41887	2626590	1594.73	1579.46	1610.00
+	"California"	"06"	"75-79 years"	"75-79"	48579	1841522	2637.98	2614.52	2661.44
+	"California"	"06"	"80-84 years"	"80-84"	61607	1325823	4646.70	4610.01	4683.39
+	"California"	"06"	"85-89 years"	"85-89"	74583	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"90-94 years"	"90-94"	67820	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"95-99 years"	"95-99"	32179	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"100+ years"	"100+"	7575	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"California"	"06"	"Not Stated"	"NS"	87	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Five-Year Age Groups: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39"
+"years; 40-44 years; 45-49 years; 50-54 years; 55-59 years; 60-64 years ; 65-69 years; 70-74 years; 75-79 years; 80-84 years;"
+"85-89 years; 90-94 years; 95-99 years; 100+ years; Not Stated"
+"States: Alameda County, CA (06001); Contra Costa County, CA (06013); Marin County, CA (06041); Napa County, CA (06055); San"
+"Francisco County, CA (06075); San Mateo County, CA (06081); Santa Clara County, CA (06085); Solano County, CA (06095); Sonoma"
+"County, CA (06097)"
+"Year/Month: 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Five-Year Age Groups"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 16, 2024 12:16:02 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 16, 2024 12:16:02 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. These items in the results table are not fully selected: California. The Query Description lists the actual values selected."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"6. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
