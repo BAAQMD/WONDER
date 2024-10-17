@@ -155,3 +155,217 @@ SFBA_UCD_age_adjusted_data %>%
     size = 2,
     data = ~ filter(., pop_raceeth == "(all)")) 
 ```
+
+## Tables (Age-Specific and Age-Adjusted)
+
+For tables of age-specific data, we follow the pattern in the previously shared `CDC_WONDER-mortality_rates-by_age-ContraCosta.xlsx`. 
+Up to 20-24 years, we show 5-year strata. 
+The remainder are 10-year strata, except for "85+ years" which is open-ended.
+
+```{r SFBA_UCD_age_specific_data}
+SFBA_UCD_age_specific_data <- local({
+  
+  imported_data <-
+    SFBA_UCD_metadata %>% 
+    filter(age %in% c("ByAge5", "ByAge10")) %>% 
+    mutate(data = map(txt_path, import_WONDER_UCD)) %>% 
+    mutate(data = map(data, ~ mutate(., pop_age = as.character(pop_age)))) %>% 
+    unnest(data)
+  
+  age5_data <-
+    imported_data %>%
+    filter(age == "ByAge5") %>% 
+    filter(pop_age %in% c(
+      "< 1 year",
+      "1-4 years",
+      "5-9 years",
+      "10-14 years",
+      "15-19 years",
+      "20-24 years"))
+  
+  age10_data <-
+    imported_data %>%
+    filter(age == "ByAge10") %>% 
+    filter(pop_age %in% c(
+      "25-34 years",
+      "35-44 years",
+      "45-54 years",
+      "55-64 years",
+      "65-74 years",
+      "75-84 years", 
+      "85+ years",
+      "Not Stated"))
+  
+  bind_rows(age5_data, age10_data) %>% 
+    mutate(pop_age = fct_inorder(pop_age, ordered = TRUE))
+  
+})
+```
+
+```{r xlsx_path}
+xlsx_path <- 
+  file.path(tempdir(), "UCD-2011-2020-SFBA.xlsx")
+```
+
+The following code chunk will have exported data to `r xlsx_path`.
+As this is/was in a temporary directory, it may have been deleted by the time you opened this vignette.
+If you want a different output location, just change the value of `xlsx_path` and then run the following code yourself.
+
+```{r xlsx_data}
+xlsx_data_list <- list()
+
+xlsx_timespan <- "2011-2020"
+
+xlsx_data_list[["age"]] <-
+  SFBA_UCD_age_specific_data %>% 
+  filter(
+    timespan == xlsx_timespan,
+    is.na(cnty_name),
+    is.na(pop_raceeth)) %>% 
+  select(
+    timespan, pop_age, rate_crude)
+
+xlsx_data_list[["race"]] <-
+  SFBA_UCD_age_adjusted_data %>% 
+  filter(
+    timespan == xlsx_timespan,
+    is.na(cnty_name),
+    !is.na(pop_raceeth)) %>% 
+  select(
+    timespan, pop_raceeth, rate_adj)
+
+xlsx_data_list[["county"]] <-
+  SFBA_UCD_age_adjusted_data %>% 
+  filter(
+    timespan == xlsx_timespan,
+    !is.na(cnty_name),
+    is.na(pop_raceeth)) %>% 
+  select(
+    timespan, cnty_name, rate_adj)
+
+xlsx_data_list[["race"]] <-
+  SFBA_UCD_age_adjusted_data %>% 
+  filter(
+    timespan == xlsx_timespan,
+    is.na(cnty_name),
+    !is.na(pop_raceeth)) %>% 
+  select(
+    timespan, pop_raceeth, rate_adj)
+
+xlsx_data_list[["age-race"]] <-
+  SFBA_UCD_age_specific_data %>% 
+  filter(
+    timespan == xlsx_timespan,
+    is.na(cnty_name),
+    !is.na(pop_raceeth)) %>% 
+  pivot_wider(
+    id_cols = c("timespan", "pop_age"),
+    names_from = "pop_raceeth",
+    values_from = "rate_crude")
+
+xlsx_data_list[["county-age"]] <-
+  SFBA_UCD_age_specific_data %>% 
+  filter(
+    timespan == xlsx_timespan,
+    !is.na(cnty_name),
+    is.na(pop_raceeth)) %>% 
+  pivot_wider(
+    id_cols = c("timespan", "pop_age"),
+    names_from = "cnty_name",
+    values_from = "rate_crude")
+
+xlsx_data_list[["county-race"]] <-
+  SFBA_UCD_age_adjusted_data %>% 
+  filter(
+    timespan == xlsx_timespan,
+    !is.na(cnty_name),
+    !is.na(pop_raceeth)) %>% 
+  pivot_wider(
+    id_cols = c("timespan", "cnty_name"),
+    names_from = "pop_raceeth",
+    values_from = "rate_adj")
+
+xlsx_data_list[["county-age-race"]] <-
+  SFBA_UCD_age_specific_data %>% 
+  filter(
+    timespan == xlsx_timespan,
+    !is.na(cnty_name),
+    !is.na(pop_raceeth)) %>% 
+  pivot_wider(
+    id_cols = c("timespan", "cnty_name", "pop_age"),
+    names_from = "pop_raceeth",
+    values_from = "rate_crude")
+
+format_xlsx_value <- function (rate, include_CI, na = "—") {
+  
+  f <- function (x) {
+    format_count(x * 1e6)
+  }
+  
+  if (isFALSE(include_CI)) {
+    formatted <- str_glue(
+      "{f(est(rate))}/M")
+  } else {
+    formatted <- str_glue(
+      "{f(est(rate))}/M",
+      "({f(lower(rate))}–{f(upper(rate))})",
+      .sep = " ")
+  }
+  
+  formatted <- 
+    replace(as.character(formatted), is.na(est(rate)), na)
+  
+  return(formatted)
+  
+}
+
+format_xlsx_data <- function (.data) {
+  
+  recode_name <- function (x) {
+    recode(x, timespan = "Timespan", cnty_name = "County", 
+           pop_age = "Age", pop_raceeth = "Race/Ethnicity",
+           rate_crude = "Crude Rate", rate_adj = "Age-Adjusted Rate")
+  }
+  
+  .data %>% 
+    mutate(
+      across(
+        where(is_ptrg), 
+        ~ format_xlsx_value(., include_CI = FALSE))) %>% 
+    rename_with(
+      recode_name)
+  
+}
+
+wb <- openxlsx::createWorkbook()
+readme_content <- tribble(
+  ~ X1, ~ X2, # throwaway names
+  "Content", "All-cause mortality rates for the Bay Area. Basis: CDC WONDER, UCD database.",
+  "", "Please note that rates cannot simply be averaged between groups or aggregated from more detailed breakdowns.", 
+  "", "Please refer to the detailed table (tab/sheet) that already provides the specific breakdown or comparison you need.",
+  "", "Confidence intervals are not shown but are available on request (see Contacts, below).",
+  "", "If a particular value is not shown, that means there were not enough observations over the relevant time period ",
+  "", "to generate a reliable value. The more detailed a breakdown is, the more likely this is to happen.",
+  "Contacts", "AIM Division: David Holstius, Yuanyuan Fang, Song Bai",
+  "Context", "Request from Greg Nudd, Fall 2024",
+  "Last Update", format(Sys.Date()))
+addWorksheet(wb, "README")
+writeData(wb, "README", readme_content, colNames = FALSE)
+
+for (sheet in names(xlsx_data_list)) {
+  addWorksheet(wb, sheet)
+  sheet_data <- xlsx_data_list[[sheet]]
+  formatted_data <- format_xlsx_data(sheet_data)
+  writeData(wb, sheet, formatted_data, withFilter = FALSE)
+  value_cols <- unname(which(map_lgl(sheet_data, is_ptrg)))
+  value_rows <- 1 + 1:nrow(sheet_data)
+  all_rows <- c(1, value_rows)
+  align_right <- createStyle(halign = "right")
+  setColWidths(wb, sheet, value_cols, "auto")
+  setRowHeights(wb, sheet, all_rows, auto_heights(wb, sheet, value_rows)[[2]])
+  addStyle(wb, sheet, align_right, rows = all_rows, cols = value_cols, gridExpand = TRUE)
+}
+
+#setWindowSize(wb, windowWidth = 100, windowHeight = 100)
+saveWorkbook(wb, xlsx_path, overwrite = TRUE)
+```
