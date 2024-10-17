@@ -298,7 +298,9 @@ xlsx_data_list[["county-age-race"]] <-
   pivot_wider(
     id_cols = c("timespan", "cnty_name", "pop_age"),
     names_from = "pop_raceeth",
-    values_from = "rate_crude")
+    values_from = "rate_crude") %>% 
+  arrange(
+    timespan, cnty_name, pop_age)
 
 format_xlsx_value <- function (rate, include_CI, na = "—") {
   
