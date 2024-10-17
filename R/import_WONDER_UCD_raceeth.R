@@ -26,11 +26,11 @@ import_WONDER_UCD_raceeth <- function (
   raceeth_data <-
     mutate(
       imported_data,
-      raceeth = if_else(hsplt, "HspLt", race),
+      raceeth = if_else(pop_eth, "pop_eth", race),
       .keep = "unused") %>%
     relocate(
       raceeth,
-      .before = which(names(imported_data) == "hsplt"))
+      .before = which(names(imported_data) == "pop_eth"))
 
   return(raceeth_data)
 

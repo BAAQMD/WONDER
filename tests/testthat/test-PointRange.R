@@ -39,6 +39,17 @@ test_that("ptrg is unit-aware", {
 
 })
 
+test_that("ptrg is.na()", {
+
+  x <- ptrg(
+    est = c(NA, 20, 30),
+    lower = c(NA, 9, 7),
+    upper = c(NA, 90, 70))
+
+  expect_identical(is.na(x), c(TRUE, FALSE, FALSE))
+
+})
+
 test_that("ptrg c()", {
 
   x <- set_units(

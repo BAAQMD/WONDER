@@ -62,6 +62,15 @@ import_WONDER_UCD <- function (
       rate_per = rate_per,
       ...)
 
+  if ("pop_age" %in% names(tidied_data)) {
+    # age_header <- "^\"(Five|Ten)-Year Age Groups: "
+    # age_meta <- txt_lines %>% keep(str_detect, age_header)
+    # #age_by <- str_match(age_meta, age_header)[, 2]
+    # age_levels <- age_meta %>% str_remove(age_header) %>% str_split(, pattern = "; ") %>% .[[1]]
+    # tidied_data <- mutate(tidied_data, pop_age = ordered(pop_age, levels = age_levels))
+    tidied_data <- mutate(tidied_data, pop_age = fct_inorder(pop_age, ordered = TRUE))
+  }
+
   comment(tidied_data) <- path
   return(tidied_data)
 

@@ -70,6 +70,11 @@ new_ptrg <- function (
 
 }
 
+#' @export
+is_ptrg <- function (x) {
+  inherits(x, "vctrs_ptrg")
+}
+
 #'----------------------------------------------------------------------
 #'
 #' Coercion: `vec_cast()` and `vec_ptype2()`

@@ -14,8 +14,8 @@ as_incidence_rate <- function (
     units = "person-1 yr-1"
 ) {
 
-  stopifnot(all(as.numeric(x) > 0))
-  stopifnot(all(as.numeric(x) < 1))
+  stopifnot(all(is.na(x) | as.numeric(x) > 0))
+  stopifnot(all(is.na(x) | as.numeric(x) < 1))
 
   u <- set_units(x, units, mode = "character")
 

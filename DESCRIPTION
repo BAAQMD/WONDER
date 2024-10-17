@@ -1,9 +1,10 @@
 Package: WONDER
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Title: Contains CDC-WONDER Data and Related Functions
+Version: 2024-10-17
+Authors@R: c(
+  person("David", "Holstius", email = "dholstius@baaqmd.gov", role = c("aut", "cre")),
+  person("Yuanyuan", "Fang", role = c("ctb")))
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
