@@ -220,6 +220,7 @@ xlsx_data_list[["age"]] <-
   SFBA_UCD_age_specific_data %>% 
   filter(
     timespan == xlsx_timespan,
+    pop_age != "Not Stated",
     is.na(cnty_name),
     is.na(pop_raceeth)) %>% 
   select(
@@ -256,6 +257,7 @@ xlsx_data_list[["age-race"]] <-
   SFBA_UCD_age_specific_data %>% 
   filter(
     timespan == xlsx_timespan,
+    pop_age != "Not Stated",
     is.na(cnty_name),
     !is.na(pop_raceeth)) %>% 
   pivot_wider(
@@ -267,6 +269,7 @@ xlsx_data_list[["county-age"]] <-
   SFBA_UCD_age_specific_data %>% 
   filter(
     timespan == xlsx_timespan,
+    pop_age != "Not Stated",
     !is.na(cnty_name),
     is.na(pop_raceeth)) %>% 
   pivot_wider(
@@ -289,6 +292,7 @@ xlsx_data_list[["county-age-race"]] <-
   SFBA_UCD_age_specific_data %>% 
   filter(
     timespan == xlsx_timespan,
+    pop_age != "Not Stated",
     !is.na(cnty_name),
     !is.na(pop_raceeth)) %>% 
   pivot_wider(
